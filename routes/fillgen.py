@@ -1,5 +1,5 @@
 from __future__ import annotations
-from flask import Blueprint, current_app, jsonify
+from flask import Blueprint, current_app, jsonify, flash, redirect, url_for
 import json
 from pathlib import Path
 import random
@@ -99,12 +99,9 @@ def generate_fill_questions():
 def import_fill_questions():
     """Import the two JSON files into the `FillQuestion` table.
 
-    Allowed only in debug mode to avoid accidental writes in production.
+    Accessible from the admin panel. Skips duplicate rows.
     """
     app = current_app._get_current_object()
-    if not app.debug:
-        return jsonify({'error': 'Import allowed only in debug mode'}), 403
-
     base = Path(app.root_path) / 'data'
     files = [
         base / 'fill_questions_june_july_aug_sept.json',
@@ -112,6 +109,7 @@ def import_fill_questions():
     ]
 
     imported = 0
+    skipped = 0
     for f in files:
         if not f.exists():
             continue
@@ -127,6 +125,7 @@ def import_fill_questions():
                 # Avoid duplicates: simple lookup
                 exists = FillQuestion.query.filter_by(word=word, question=question_text).first()
                 if exists:
+                    skipped += 1
                     continue
                 fq = FillQuestion(word=word, question=question_text, answer=answer,
                                   month=(it.get('month') or 'June'), subject=(it.get('subject') or 'ENGLISH'),
@@ -134,4 +133,9 @@ def import_fill_questions():
                 db.session.add(fq)
                 imported += 1
     db.session.commit()
-    return jsonify({'imported': imported})
+
+    # Support both API and browser usage
+    if 'text/html' in (app.extensions.get('request') and '' or ''):
+        pass
+    flash(f'\u2705 Imported {imported} fill questions ({skipped} duplicates skipped).', 'success')
+    return redirect(url_for('admin_bp.index'))

@@ -7,3 +7,4 @@ __pycache__/
 instance/
 .venv/
 *.db
+.vscode/

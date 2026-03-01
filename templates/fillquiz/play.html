@@ -1,9 +1,50 @@
 {% extends 'base.html' %}
+{% block title %}Fill Quiz — Page {{ page }} of {{ total_pages }}{% endblock %}
+
+{% block extra_head %}
+<script src="/static/js/fillquiz.js" defer></script>
+<script src="/static/js/speech.js" defer></script>
+{% endblock %}
 
 {% block content %}
-<h2>Fill-in-the-blank Quiz</h2>
-<div id="quiz-container" data-attempt-id="{{ attempt_id if attempt_id else '' }}"></div>
-<div id="pager"></div>
-<button id="start-btn">Start Quiz</button>
-<script src="/static/js/fillquiz.js"></script>
+<section class="fill-quiz-play">
+  <div class="progress-container">
+    <div class="progress-bar" style="width: {{ progress_pct }}%"></div>
+  </div>
+  <p class="progress-label">Page {{ page }} of {{ total_pages }} &middot; {{ total_questions }} questions total</p>
+
+  <form method="post" action="/fillquiz/play">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+    <input type="hidden" name="current_page" value="{{ page }}" />
+
+    {% for q in questions %}
+    <div class="fill-question-card">
+      <p class="question-text">
+        <span class="question-number">{{ q.number }}.</span>
+        {{ q.question }}
+      </p>
+      <input type="text"
+             name="answer_{{ q.id }}"
+             class="fill-answer-input"
+             placeholder="Type your answer…"
+             autocomplete="off" autocorrect="off" spellcheck="false"
+             value="{{ answers.get(q.id|string, '') }}" />
+    </div>
+    {% endfor %}
+
+    <div class="fill-pager">
+      {% if page > 1 %}
+        <button type="submit" name="action" value="prev" class="btn btn-secondary">← Previous</button>
+      {% else %}
+        <span></span>
+      {% endif %}
+
+      {% if page < total_pages %}
+        <button type="submit" name="action" value="next" class="btn btn-primary">Next →</button>
+      {% else %}
+        <button type="submit" name="action" value="finish" class="btn btn-success btn-lg">✅ Finish Quiz</button>
+      {% endif %}
+    </div>
+  </form>
+</section>
 {% endblock %}

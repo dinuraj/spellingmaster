@@ -31,7 +31,9 @@ quiz_bp = Blueprint('quiz_bp', __name__, template_folder='../templates')
 @quiz_bp.route('/')
 def index():
     lists = WordList.query.order_by(WordList.created_at.desc()).all()
-    return render_template('home.html', word_lists=lists)
+    from models import FillQuestion
+    fill_word_count = db.session.query(FillQuestion.word).distinct().count()
+    return render_template('home.html', word_lists=lists, fill_word_count=fill_word_count)
 
 
 @quiz_bp.route('/start', methods=['POST'])

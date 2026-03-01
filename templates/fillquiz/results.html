@@ -1,19 +1,83 @@
 {% extends 'base.html' %}
+{% block title %}Fill Quiz Results 🏆{% endblock %}
+
+{% block extra_head %}
+<script src="/static/js/speech.js" defer></script>
+{% endblock %}
 
 {% block content %}
-<h2>Quiz Results</h2>
-<p>Score: {{ attempt.correct_count }} / {{ attempt.total_questions }}</p>
-<table>
-  <thead><tr><th>Word</th><th>Question</th><th>Your answer</th><th>Correct?</th></tr></thead>
-  <tbody>
-  {% for r in results %}
-    <tr>
-      <td>{{ r.word }}</td>
-      <td>{{ r.question }}</td>
-      <td>{{ r.submitted }}</td>
-      <td>{{ 'Yes' if r.correct else 'No' }}</td>
-    </tr>
+{% if stars == 3 %}
+<div class="confetti-container">
+  {% for i in range(20) %}
+  <span class="confetti-piece"
+        style="left: {{ (i * 5) % 100 }}%; animation-delay: {{ (i * 0.15)|round(2) }}s;
+               background: {{ ['#FFD700','#4CAF50','#2196F3','#FF6B6B','#9C27B0'][i % 5] }};"></span>
   {% endfor %}
-  </tbody>
-</table>
+</div>
+{% endif %}
+
+<section class="fill-quiz-results">
+  <div class="score-card">
+    <div class="score-stars">
+      {% for i in range(3) %}
+        {% if i < stars %}⭐{% else %}☆{% endif %}
+      {% endfor %}
+    </div>
+    <div class="score-fraction">{{ correct_count }} / {{ total }}</div>
+    <p class="score-percent">{{ score_percent|round(0)|int }}% Correct</p>
+    <p class="score-message {% if stars == 3 %}message-gold{% elif stars == 2 %}message-green{% else %}message-blue{% endif %}">
+      {{ message }}
+    </p>
+  </div>
+
+  <div class="review-grid">
+    <div class="review-col">
+      <h3>✅ Words You Got Right</h3>
+      {% if correct_words %}
+        {% for w in correct_words %}
+          <div class="word-item word-correct">✔ {{ w }}</div>
+        {% endfor %}
+      {% else %}
+        <p class="muted">None this time — keep going!</p>
+      {% endif %}
+    </div>
+    <div class="review-col">
+      <h3>❌ Words to Practice</h3>
+      {% if wrong_results %}
+        {% for r in wrong_results %}
+          <div class="word-item word-wrong">
+            <div>
+              <strong>{{ r.word }}</strong>
+              <span class="muted" style="font-size:0.85rem; display:block;">{{ r.question }}</span>
+              {% if r.submitted %}
+                <span style="font-size:0.85rem;">You typed: <em>{{ r.submitted }}</em></span>
+              {% else %}
+                <span style="font-size:0.85rem; color:#999;">No answer</span>
+              {% endif %}
+            </div>
+            <button class="btn btn-sm" onclick="speakSingleWord('{{ r.word }}')">🔊 Hear it</button>
+          </div>
+        {% endfor %}
+      {% else %}
+        <p>🎯 Perfect score — no words to review!</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="action-buttons">
+    <form method="post" action="/fillquiz/start" style="display:inline">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+      <input type="hidden" name="size" value="{{ total }}" />
+      <button class="btn btn-primary">🔄 Try Again</button>
+    </form>
+    <a href="/fillquiz/" class="btn btn-secondary">Choose Different Size</a>
+    {% if wrong_words %}
+    <form method="post" action="/fillquiz/start" style="display:inline">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+      <input type="hidden" name="missed_only" value="true" />
+      <button class="btn btn-warning">📝 Practice Missed Words</button>
+    </form>
+    {% endif %}
+  </div>
+</section>
 {% endblock %}

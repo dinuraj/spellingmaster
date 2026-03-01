@@ -6,6 +6,18 @@
     <a href="#new-list" class="btn btn-primary">+ New Word List</a>
   </div>
 
+  <section class="card fill-import-card">
+    <h2>📝 Fill-in-the-Blank Questions</h2>
+    <p class="muted">{{ fill_question_count }} questions in database ({{ fill_word_count }} unique words)</p>
+    <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:12px;">
+      <form method="post" action="/admin/import-fill-questions">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+        <button class="btn btn-primary">Import from JSON Files</button>
+      </form>
+      <a href="/admin/fillquestions" class="btn btn-secondary">Manage Questions →</a>
+    </div>
+  </section>
+
   <section id="new-list" class="card">
     <form method="post" action="/admin/list/new">
       <label>List Name</label>

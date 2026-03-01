@@ -23,7 +23,11 @@ WORD_RE = re.compile(r"^[a-zA-Z-]{1,50}$")
 @admin_bp.route('/')
 def index():
     lists = WordList.query.order_by(WordList.created_at.desc()).all()
-    return render_template('admin/manage_lists.html', word_lists=lists)
+    fill_question_count = FillQuestion.query.count()
+    fill_word_count = db.session.query(FillQuestion.word).distinct().count()
+    return render_template('admin/manage_lists.html', word_lists=lists,
+                           fill_question_count=fill_question_count,
+                           fill_word_count=fill_word_count)
 
 
 @admin_bp.route('/list/new', methods=['GET', 'POST'])

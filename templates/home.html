@@ -26,4 +26,17 @@
       </div>
     {% endif %}
   </section>
+
+  <section class="fill-quiz-section" style="margin-top:24px;">
+    <div class="card" style="text-align:center;">
+      <h2>📝 Fill in the Blanks</h2>
+      <p class="muted">Practice spelling by filling in missing words in sentences.</p>
+      {% if fill_word_count %}
+        <p class="badge">{{ fill_word_count }} words available</p>
+      {% endif %}
+      <div style="margin-top:12px;">
+        <a href="/fillquiz/" class="btn btn-primary">Start Fill Quiz</a>
+      </div>
+    </div>
+  </section>
 {% endblock %}
