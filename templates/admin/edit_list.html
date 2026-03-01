@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+{% block title %}Edit — {{ word_list.name }}{% endblock %}
+{% block content %}
+  <nav class="breadcrumb">Word Lists &gt; {{ word_list.name }}</nav>
+  <section class="card">
+    <form method="post" action="/admin/list/{{ word_list.id }}/edit">
+      <label>Name</label>
+      <input type="text" name="name" value="{{ word_list.name }}" required />
+      <label>Description</label>
+      <textarea name="description">{{ word_list.description or '' }}</textarea>
+      <button class="btn btn-success">Save</button>
+    </form>
+  </section>
+
+  <section class="card">
+    <h3>Bulk Import</h3>
+    <form method="post" action="/admin/list/{{ word_list.id }}/bulk">
+      <textarea name="bulk_text" placeholder="one word per line, optional hint after |" style="font-family:monospace; min-height:120px"></textarea>
+      <button class="btn btn-primary">Import Words</button>
+    </form>
+  </section>
+
+  <section class="card">
+    <h3>{{ words|length }} words in this list</h3>
+    <table class="words-table">
+      <thead><tr><th>#</th><th>Word</th><th>Hint</th><th>Remove</th></tr></thead>
+      <tbody>
+        {% for w in words %}
+          <tr id="word-row-{{ w.id }}">
+            <td>{{ loop.index }}</td>
+            <td>{{ w.word }}</td>
+            <td>{{ w.hint }}</td>
+            <td><button class="btn btn-danger" onclick="deleteWord({{ w.id }}, 'word-row-{{ w.id }}')">✕</button></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <h4>Add single word</h4>
+    <div class="inline-form">
+      <input type="text" id="new-word" placeholder="word" />
+      <input type="text" id="new-hint" placeholder="hint (optional)" />
+      <button class="btn btn-success" onclick="addWord({{ word_list.id }})">Add Word</button>
+    </div>
+  </section>
+
+  <script>
+  async function deleteWord(wordId, rowId) {
+    if (!confirm('Delete this word?')) return;
+    const res = await fetch('/admin/word/' + wordId + '/delete', {method: 'POST'});
+    const data = await res.json();
+    if (data.success) document.getElementById(rowId).remove();
+    else alert('Could not delete word');
+  }
+  async function addWord(listId) {
+    const word = document.getElementById('new-word').value.trim();
+    const hint = document.getElementById('new-hint').value.trim();
+    if (!word) { alert('Enter a word'); return; }
+    const res = await fetch('/admin/list/' + listId + '/word/add', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({word, hint})});
+    const data = await res.json();
+    if (data.success) {
+      location.reload();
+    } else {
+      alert(data.error || 'Could not add word');
+    }
+  }
+  </script>
+{% endblock %}

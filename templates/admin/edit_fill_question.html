@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Edit Fill Question #{{ fq.id }}</h2>
+<form method="post">
+  {{ form.hidden_tag() }}
+  <div>
+    {{ form.question.label }}<br>
+    {{ form.question(rows=4, cols=80) }}
+  </div>
+  <div>
+    {{ form.answer.label }}<br>
+    {{ form.answer(size=40) }}
+  </div>
+  <div>
+    {{ form.submit() }}
+  </div>
+</form>
+{% endblock %}

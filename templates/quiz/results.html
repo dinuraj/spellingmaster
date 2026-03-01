@@ -1,0 +1,70 @@
+{% extends 'base.html' %}
+{% block title %}Quiz Results 🏆{% endblock %}
+{% block content %}
+  {% if stars == 3 %}
+    <div class="confetti-container">
+      {% for i in range(20) %}
+        <span class="confetti-piece" style="left:{{ (loop.index * 4) % 100 }}%; animation-delay: {{ (loop.index % 5) * 0.1 }}s;"></span>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="score-card card">
+    <div class="score-stars">
+      {% for i in range(3) %}
+        {% if i < stars %}
+          <span>⭐</span>
+        {% else %}
+          <span>☆</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="score-fraction">{{ correct_count }} / {{ total_words }}</div>
+    <div class="score-percent">{{ score_percent|round(0) }}% Correct</div>
+    <div class="score-message {% if stars==3 %}message-gold{% elif stars==2 %}message-green{% else %}message-blue{% endif %}">
+      {{ message }}
+    </div>
+  </div>
+
+  <div class="review-grid">
+    <div class="review-col">
+      <h3>✅ Words You Got Right</h3>
+      {% if correct_words %}
+        <ul>
+          {% for w in correct_words %}<li>{{ w }}</li>{% endfor %}
+        </ul>
+      {% else %}
+        <p>None this time — keep going!</p>
+      {% endif %}
+    </div>
+    <div class="review-col">
+      <h3>❌ Words to Practice</h3>
+      {% if wrong_words %}
+        <ul>
+          {% for w in wrong_words %}
+            <li class="word-item"> <strong>{{ w }}</strong>
+              <button class="btn" onclick="speakSingleWord('{{ w }}')">🔊 Hear it</button>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>🎯 Perfect score — no words to review!</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="actions">
+    <form method="post" action="/quiz/start" style="display:inline">
+      <input type="hidden" name="list_id" value="{{ request.args.get('list_id') or '' }}">
+      <button class="btn btn-primary">Try Again</button>
+    </form>
+    <a href="/" class="btn">Choose Different List</a>
+    {% if wrong_words %}
+      <form method="post" action="/quiz/start" style="display:inline">
+        <input type="hidden" name="list_id" value="{{ request.args.get('list_id') or '' }}">
+        <input type="hidden" name="missed_only" value="true" />
+        <button class="btn btn-success">Practice Missed Words</button>
+      </form>
+    {% endif %}
+  </div>
+{% endblock %}

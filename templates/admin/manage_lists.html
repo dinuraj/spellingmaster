@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block title %}Manage Word Lists{% endblock %}
+{% block content %}
+  <div class="page-header">
+    <h1>📚 Word Lists</h1>
+    <a href="#new-list" class="btn btn-primary">+ New Word List</a>
+  </div>
+
+  <section id="new-list" class="card">
+    <form method="post" action="/admin/list/new">
+      <label>List Name</label>
+      <input type="text" name="name" required />
+      <label>Description</label>
+      <textarea name="description"></textarea>
+      <button class="btn btn-success">Create List</button>
+    </form>
+  </section>
+
+  <section class="card">
+    {% if word_lists %}
+      <table class="admin-table">
+        <thead><tr><th>Name</th><th>Words</th><th>Created</th><th>Actions</th></tr></thead>
+        <tbody>
+          {% for wl in word_lists %}
+            <tr>
+              <td><a href="/admin/list/{{ wl.id }}/edit">{{ wl.name }}</a></td>
+              <td>{{ wl.words.count() }} words</td>
+              <td>{{ wl.created_at.strftime('%Y-%m-%d') }}</td>
+              <td>
+                <a href="/admin/list/{{ wl.id }}/edit" class="btn">Edit</a>
+                <form method="post" action="/admin/list/{{ wl.id }}/delete" style="display:inline" onsubmit="return confirm('Delete this list and all its words?')">
+                  <button class="btn btn-danger">Delete</button>
+                </form>
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% else %}
+      <div class="empty-state">📭 No word lists yet — create your first one above!</div>
+    {% endif %}
+  </section>
+{% endblock %}

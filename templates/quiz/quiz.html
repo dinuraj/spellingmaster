@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% block title %}Spelling Quiz 🎯{% endblock %}
+{% block extra_head %}
+  <script src="/static/js/speech.js" defer></script>
+  <script src="/static/js/canvas.js" defer></script>
+  <script src="/static/js/quiz.js" defer></script>
+{% endblock %}
+{% block content %}
+  <div class="progress-container">
+    <div class="progress-bar" style="width: {{ (current_index / total_words * 100) if total_words else 0 }}%"></div>
+  </div>
+  <p class="progress-label">Word {{ current_index + 1 }} of {{ total_words }}</p>
+
+  <div class="audio-controls">
+      <label for="voice-select" class="voice-label">Voice:</label>
+      <select id="voice-select" aria-label="Choose dictation voice"></select>
+      <button class="btn btn-primary btn-lg" onclick="speakWord()" id="btn-speak">🔊 Hear the Word</button>
+      <button class="btn btn-secondary" onclick="speakWord()" id="btn-repeat" style="display:none">🔊 Hear Again</button>
+  </div>
+
+  {% if hint %}
+    <div class="hint-box"><span class="hint-label">Hint:</span> {{ hint }}</div>
+  {% endif %}
+
+  <div class="answer-section" id="type-section">
+    <input type="text" id="answer-input" class="spelling-input" placeholder="Type your spelling here..." autocomplete="off" autocorrect="off" spellcheck="false" autofocus />
+    <button class="btn btn-success btn-lg" onclick="submitAnswer()">✅ Check My Spelling</button>
+  </div>
+
+  <div class="mode-toggle">
+    <span>— or —</span>
+    <button class="btn btn-secondary" onclick="toggleCanvas()" id="btn-canvas">✏️ Write Instead</button>
+  </div>
+
+  <div class="canvas-section" id="canvas-section" style="display:none">
+    <canvas id="handwriting-canvas" width="600" height="200"></canvas>
+    <div class="canvas-controls">
+      <button class="btn" onclick="clearCanvas()">🗑️ Clear</button>
+      <button class="btn btn-success" onclick="submitCanvas()">✅ Submit Writing</button>
+    </div>
+  </div>
+
+  <div class="feedback-zone" id="feedback" style="display:none">
+    <div id="feedback-icon" class="feedback-icon"></div>
+    <p id="feedback-msg" class="feedback-msg"></p>
+    <p id="recognized-output" class="recognized-output" style="display:none"></p>
+    <p id="correct-word-reveal" class="correct-reveal" style="display:none"></p>
+    <button class="btn btn-primary btn-lg" onclick="nextWord()" id="btn-next">Next Word →</button>
+  </div>
+
+  <span id="current-word" data-word="{{ word }}" style="display:none"></span>
+  <span id="quiz-data" data-total="{{ total_words }}" data-index="{{ current_index }}" style="display:none"></span>
+{% endblock %}

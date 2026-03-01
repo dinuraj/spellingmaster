@@ -1,0 +1,56 @@
+{
+  "June": {
+    "ENGLISH": ["conversation", "weather", "pleasant", "favourite", "squirrels", "celebrate", "excited", "irregular", "frightened", "germinate"],
+    "SCIENCE": ["locomotion", "breathing", "stomata", "spiracles", "reproduction", "life span", "organism", "digestion", "skeleton", "intestine"],
+    "SST": ["nuclear", "generation", "organisation", "transferable", "orphanage", "adopted", "bungalow", "neighbourhood", "skyscrapers", "appearance"],
+    "MATH/ICT": ["application", "components", "external", "classified", "allocates", "thousands", "appropriate", "pictorial", "representation", "comparison"]
+  },
+  "July": {
+    "ENGLISH": ["spade", "twig", "swaying", "glared", "glanced", "leaped", "blackberry", "delight", "mountainside", "Swiss Alps"],
+    "SCIENCE": ["afforestation", "respiratory", "diaphragm", "tissue", "muscular", "skull", "inhalation", "deforestation", "streamlined", "flightless"],
+    "SST": ["invention", "ancient", "rafts", "submarine", "passengers", "development", "ports", "responsibility", "encourage", "appropriate"],
+    "MATH/ICT": ["specific", "three-dimensional", "untitled", "release", "various", "currency", "estimating", "addition", "regrouping", "altogether"]
+  },
+  "August": {
+    "ENGLISH": ["pastured", "spread", "cistus", "excitedly", "imagine", "supports", "hesitantly", "advice", "exclaimed", "heartily"],
+    "SCIENCE": ["perching", "ornithologist", "container", "imitating", "weave", "mosquitoes", "vibrant", "antennae", "chitin", "louse"],
+    "SST": ["respect", "encourage", "participate", "occupations", "professional", "historians", "calendar", "anniversaries", "decade", "century"],
+    "MATH/ICT": ["subtrahend", "minuend", "difference", "borrow", "estimate", "sphere", "library", "canvas", "Microsoft", "doodle"]
+  },
+  "September": {
+    "ENGLISH": ["water-babies", "chimney sweep", "sea-creatures", "boulder", "seaweeds", "mended", "rock pools", "sewers", "sea anemones", "ripple"],
+    "SCIENCE": ["saliva", "thorax", "abdomen", "cocoon", "larva", "mounds", "drones", "colonies", "transmitting", "caterpillar"],
+    "SST": ["community", "domesticate", "vaccination", "disasters", "extinguisher", "labour", "infection", "inclusive", "Braille", "communicate"],
+    "MATH/ICT": ["multiplicand", "multiplier", "product", "multiplication", "group", "default", "presentable", "maximize", "automatically", "cursor"]
+  },
+  "October": {
+    "ENGLISH": ["excitement", "board", "compartment", "skipping", "bubbling", "stagecoaches", "boiler", "locomotives", "generator", "polluting"],
+    "SCIENCE": ["hibiscus", "edible", "swollen", "fenugreek", "consume", "ingredient", "beverages", "eucalyptus", "compost", "recycle"],
+    "SST": ["detergent", "inflammable", "poisonous", "gadgets", "antiseptic", "thermometer", "ointment", "wound", "advertisements", "appliances"],
+    "MATH/ICT": ["dividend", "quotient", "divisor", "remainder", "number line", "existing", "document", "information", "editing", "interface"]
+  },
+  "November": {
+    "ENGLISH": ["cyclone", "befriended", "scarecrow", "startled", "groans", "uncomfortable", "cornfield", "growling", "shush", "tinsmith"],
+    "SCIENCE": ["vapour", "volume", "compressed", "inflates", "buildings", "temperature", "vapourisation", "condensation", "saturated", "cooking"],
+    "SST": ["heritage", "ancestor", "monument", "material", "sculpture", "historical", "ancient", "attraction", "effigy", "exiled"],
+    "MATH/ICT": ["sphere", "pattern", "cylinder", "diagonals", "tessellation", "adjacent", "feature", "application", "gadgets", "assistants"]
+  },
+  "December": {
+    "ENGLISH": ["gladdest", "cliffs", "bow down", "sobbing", "frightened", "coward", "roared", "courage", "rusted", "straw"],
+    "SCIENCE": ["oxygen", "container", "temperature", "evaporation", "humidity", "precipitation", "teaspoons", "melting", "feather", "harvesting"],
+    "SST": ["leader", "protest", "satyagraha", "revolt", "circumstances", "swaraj", "triumphs", "country", "inspiration", "prosperity"],
+    "MATH/ICT": ["mass", "capacity", "millilitre", "measurement", "kilogram", "queries", "air conditioners", "refrigerator", "animated", "blocks palette"]
+  },
+  "January": {
+    "ENGLISH": ["prodigy", "enormously", "spellbound", "recital", "curious", "absolute", "amazement", "splendid", "flitting", "instantly"],
+    "SCIENCE": ["kettle", "droplets", "hailstorms", "ocean", "germs", "strainer", "eco-friendly", "rooftop", "energy", "raincoats"],
+    "SST": ["constellation", "satellite", "celestial", "galaxy", "universe", "revolution", "rotation", "mnemonics", "forecasting", "bulging"],
+    "MATH/ICT": ["minutes", "ante meridiem", "quarter past", "calendar", "fortnight", "script", "requirement", "category", "symbol", "costume"]
+  },
+  "February": {
+    "ENGLISH": ["gymnast", "fascinated", "equipment", "set-up", "conquer", "flare-up", "discovered", "massive", "byamagar", "challenge"],
+    "SCIENCE": ["scalp", "windmills", "swimming", "playground", "healthy", "efficiently", "exercise", "sanitation", "football", "cleanliness"],
+    "SST": ["environment", "pollutants", "deforestation", "afforestation", "sewage", "pesticides", "harmful", "emissions", "migratory", "recognitions"],
+    "MATH/ICT": ["clock", "key", "data handling", "pictograph", "stage", "add extension", "motion block", "direction", "stamp", "coding area"]
+  }
+}

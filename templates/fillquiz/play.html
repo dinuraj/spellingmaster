@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Fill-in-the-blank Quiz</h2>
+<div id="quiz-container" data-attempt-id="{{ attempt_id if attempt_id else '' }}"></div>
+<div id="pager"></div>
+<button id="start-btn">Start Quiz</button>
+<script src="/static/js/fillquiz.js"></script>
+{% endblock %}

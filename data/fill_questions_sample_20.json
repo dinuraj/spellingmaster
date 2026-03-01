@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "word": "conversation",
+      "questions": [
+        {"question": "During lunch they had a long _____ about their school project.", "answer": "conversation"},
+        {"question": "I couldn't hear the _____ because the classroom was noisy.", "answer": "conversation"},
+        {"question": "After a short _____, they agreed to help each other.", "answer": "conversation"}
+      ]
+    },
+    {
+      "word": "squirrels",
+      "questions": [
+        {"question": "The _____ climbed the tree to reach the acorns.", "answer": "squirrels"},
+        {"question": "We saw two _____ chasing each other across the park.", "answer": "squirrels"},
+        {"question": "The children watched the _____ gather nuts for winter.", "answer": "squirrels"}
+      ]
+    },
+    {
+      "word": "celebrate",
+      "questions": [
+        {"question": "We will _____ her birthday with a cake and balloons.", "answer": "celebrate"},
+        {"question": "The class will _____ finishing the book by having a party.", "answer": "celebrate"},
+        {"question": "Families often _____ festivals with songs and food.", "answer": "celebrate"}
+      ]
+    },
+    {
+      "word": "excited",
+      "questions": [
+        {"question": "She was so _____ to open her gift that she couldn't wait.", "answer": "excited"},
+        {"question": "The students were _____ about the surprise trip to the museum.", "answer": "excited"},
+        {"question": "He jumped up, _____ to begin the experiment.", "answer": "excited"}
+      ]
+    },
+    {
+      "word": "irregular",
+      "questions": [
+        {"question": "This verb is _____ and doesn't follow the normal rules.", "answer": "irregular"},
+        {"question": "She noticed an _____ heartbeat and called the doctor.", "answer": "irregular"},
+        {"question": "The pattern on the seashell was pleasantly _____.", "answer": "irregular"}
+      ]
+    },
+    {
+      "word": "germinate",
+      "questions": [
+        {"question": "With water and warmth the seed will _____ into a tiny plant.", "answer": "germinate"},
+        {"question": "Farmers wait for seeds to _____ before transplanting them.", "answer": "germinate"},
+        {"question": "If you keep the soil moist, the beans will _____ quickly.", "answer": "germinate"}
+      ]
+    },
+    {
+      "word": "locomotion",
+      "questions": [
+        {"question": "Frogs use their legs for _____ across land and water.", "answer": "locomotion"},
+        {"question": "Scientists study the _____ of animals to learn how they move.", "answer": "locomotion"},
+        {"question": "The textbook chapter on _____ explained walking and flying.", "answer": "locomotion"}
+      ]
+    },
+    {
+      "word": "skeleton",
+      "questions": [
+        {"question": "The dinosaur's _____ was displayed in the museum.", "answer": "skeleton"},
+        {"question": "Bones in the human _____ help us stand upright.", "answer": "skeleton"},
+        {"question": "She learned that the skull is part of the _____.", "answer": "skeleton"}
+      ]
+    },
+    {
+      "word": "mountainside",
+      "questions": [
+        {"question": "They walked along the steep _____ to reach the waterfall.", "answer": "mountainside"},
+        {"question": "The cottage was built on the sunny _____ of the hill.", "answer": "mountainside"},
+        {"question": "Snow slid down the _____ after the storm.", "answer": "mountainside"}
+      ]
+    },
+    {
+      "word": "imagine",
+      "questions": [
+        {"question": "Try to _____ what it would be like to fly.", "answer": "imagine"},
+        {"question": "Can you _____ a house made of chocolate?", "answer": "imagine"},
+        {"question": "She closed her eyes to _____ the story's setting.", "answer": "imagine"}
+      ]
+    },
+    {
+      "word": "antennae",
+      "questions": [
+        {"question": "The insect used its _____ to feel its way around.", "answer": "antennae"},
+        {"question": "Moths have feathery _____ that help them detect scents.", "answer": "antennae"},
+        {"question": "You can see the _____ twitch when the bug moves.", "answer": "antennae"}
+      ]
+    },
+    {
+      "word": "community",
+      "questions": [
+        {"question": "Our _____ worked together to clean the park.", "answer": "community"},
+        {"question": "The _____ organized a fair to raise money.", "answer": "community"},
+        {"question": "People in the _____ help each other during emergencies.", "answer": "community"}
+      ]
+    },
+    {
+      "word": "vaccination",
+      "questions": [
+        {"question": "The doctor recommended _____ to protect children from disease.", "answer": "vaccination"},
+        {"question": "_____ helps prevent the spread of many illnesses.", "answer": "vaccination"},
+        {"question": "They received _____ before traveling abroad.", "answer": "vaccination"}
+      ]
+    },
+    {
+      "word": "cyclone",
+      "questions": [
+        {"question": "The _____ caused heavy rain and strong winds last night.", "answer": "cyclone"},
+        {"question": "People boarded up windows ahead of the approaching _____.", "answer": "cyclone"},
+        {"question": "After the _____, the town needed help with repairs.", "answer": "cyclone"}
+      ]
+    },
+    {
+      "word": "frightened",
+      "questions": [
+        {"question": "The loud thunder made the puppy _____ and hide.", "answer": "frightened"},
+        {"question": "She felt _____ when she saw the shadow on the wall.", "answer": "frightened"},
+        {"question": "Don't be _____; the costume is only for fun.", "answer": "frightened"}
+      ]
+    },
+    {
+      "word": "prodigy",
+      "questions": [
+        {"question": "The young _____ could play three instruments at once.", "answer": "prodigy"},
+        {"question": "Everyone was amazed by the math _____ who solved the problem.", "answer": "prodigy"},
+        {"question": "They called her a musical _____ after the concert.", "answer": "prodigy"}
+      ]
+    },
+    {
+      "word": "equipment",
+      "questions": [
+        {"question": "The school bought new lab _____ for the science class.", "answer": "equipment"},
+        {"question": "Always wear safety _____ when you use tools.", "answer": "equipment"},
+        {"question": "They loaded the camping _____ into the car.", "answer": "equipment"}
+      ]
+    },
+    {
+      "word": "fascinated",
+      "questions": [
+        {"question": "He was _____ by the magician's tricks and clapped loudly.", "answer": "fascinated"},
+        {"question": "The students were _____ with the glowing fossils.", "answer": "fascinated"},
+        {"question": "She watched the ants, completely _____ by their work.", "answer": "fascinated"}
+      ]
+    },
+    {
+      "word": "challenge",
+      "questions": [
+        {"question": "Climbing the tree was a big _____ for the little boy.", "answer": "challenge"},
+        {"question": "He accepted the _____ to build the tallest tower.", "answer": "challenge"},
+        {"question": "Learning a new language can be a fun _____.", "answer": "challenge"}
+      ]
+    },
+    {
+      "word": "favourite",
+      "questions": [
+        {"question": "Blue is my _____ colour.", "answer": "favourite"},
+        {"question": "Pancakes are her _____ breakfast on Sundays.", "answer": "favourite"},
+        {"question": "That book is his _____ to read at bedtime.", "answer": "favourite"}
+      ]
+    }
+  ]
+}

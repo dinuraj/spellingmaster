@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Bulk Edit Fill Questions</h2>
+<p>Use lines in the format: <code>id|question|answer</code></p>
+<form method="post">
+  {{ csrf_token() }}
+  <textarea name="bulk_text" rows="20" cols="100"></textarea>
+  <div><button type="submit">Apply Bulk Edit</button></div>
+</form>
+{% endblock %}

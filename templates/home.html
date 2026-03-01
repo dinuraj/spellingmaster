@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block title %}Ready to Spell?{% endblock %}
+{% block content %}
+  <section class="hero">
+    <h1>Ready to Spell? 🚀</h1>
+    <p>Select a word list to begin.</p>
+  </section>
+
+  <section class="lists-grid">
+    {% if word_lists %}
+      {% for l in word_lists %}
+        <div class="card">
+          <h2><a href="/admin/list/{{ l.id }}/edit">{{ l.name }}</a></h2>
+          <p class="muted">{{ l.description or '' }}</p>
+          <p class="badge">{{ l.words.count() }} words</p>
+          <form method="post" action="/quiz/start">
+            <input type="hidden" name="list_id" value="{{ l.id }}" />
+            <button class="btn btn-primary">Start Quiz</button>
+          </form>
+        </div>
+      {% endfor %}
+    {% else %}
+      <div class="empty-state">
+        <p>📭 No word lists yet — create your first one.</p>
+        <a href="/admin/" class="btn btn-primary">Manage Word Lists</a>
+      </div>
+    {% endif %}
+  </section>
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Fill Questions</h2>
+<table>
+  <thead><tr><th>ID</th><th>Word</th><th>Question</th><th>Answer</th><th>Actions</th></tr></thead>
+  <tbody>
+  {% for fq in pagination.items %}
+    <tr>
+      <td>{{ fq.id }}</td>
+      <td>{{ fq.word }}</td>
+      <td>{{ fq.question }}</td>
+      <td>{{ fq.answer }}</td>
+      <td>
+        <a href="{{ url_for('admin_bp.edit_fill_question', qid=fq.id) }}">Edit</a>
+        <form action="{{ url_for('admin_bp.delete_fill_question', qid=fq.id) }}" method="post" style="display:inline">
+          {{ csrf_token() }}
+          <button type="submit">Delete</button>
+        </form>
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<div class="pagination">{% if pagination.has_prev %}<a href="?page={{ pagination.prev_num }}">Prev</a>{% endif %} Page {{ pagination.page }} of {{ pagination.pages }} {% if pagination.has_next %}<a href="?page={{ pagination.next_num }}">Next</a>{% endif %}</div>
+{% endblock %}

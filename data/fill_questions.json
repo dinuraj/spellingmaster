@@ -1,0 +1,8213 @@
+{
+  "meta": {
+    "total_words": 348,
+    "candidates": 333
+  },
+  "items": [
+    {
+      "word": "conversation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "conversation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "conversation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "conversation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "weather"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "weather"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "weather"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "pleasant"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "pleasant"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "pleasant"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "favourite"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "favourite"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "favourite"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "squirrels",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "squirrels"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "squirrels"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "squirrels"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "celebrate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "celebrate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "celebrate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "celebrate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "excited",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "excited"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "excited"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "excited"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "irregular",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "irregular"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "irregular"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "irregular"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "frightened",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "frightened"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "frightened"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "frightened"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        },
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "germinate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "germinate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "germinate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "germinate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "locomotion",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "locomotion"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "locomotion"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "locomotion"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "breathing",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "breathing"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "breathing"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "breathing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "stomata",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "stomata"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "stomata"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "stomata"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "spiracles",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "spiracles"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "spiracles"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "spiracles"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "reproduction",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "reproduction"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "reproduction"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "reproduction"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "life span",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "organism",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "organism"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "organism"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "organism"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "digestion",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "digestion"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "digestion"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "digestion"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "skeleton",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "skeleton"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "skeleton"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "skeleton"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "intestine",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "intestine"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "intestine"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "intestine"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "nuclear",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "nuclear"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "nuclear"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "nuclear"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "generation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "generation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "generation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "generation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "organisation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "organisation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "organisation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "organisation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "transferable",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "transferable"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "transferable"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "transferable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "orphanage",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "orphanage"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "orphanage"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "orphanage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "adopted",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "adopted"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "adopted"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "adopted"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "bungalow",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "bungalow"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "bungalow"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "bungalow"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "neighbourhood",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "neighbourhood"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "neighbourhood"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "neighbourhood"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "skyscrapers",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "skyscrapers"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "skyscrapers"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "skyscrapers"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "appearance",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "appearance"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "appearance"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "appearance"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "application",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "application"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "application"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "application"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        },
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "components",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "components"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "components"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "components"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "external",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "external"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "external"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "external"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "classified",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "classified"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "classified"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "classified"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "allocates",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "allocates"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "allocates"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "allocates"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "thousands",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "thousands"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "thousands"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "thousands"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "appropriate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "appropriate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "appropriate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "appropriate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        },
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pictorial",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "pictorial"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "pictorial"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "pictorial"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "representation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "representation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "representation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "representation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "comparison",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "comparison"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "comparison"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "comparison"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "spade",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "spade"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "spade"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "spade"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "twig",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "twig"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "twig"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "twig"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "swaying",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "swaying"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "swaying"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "swaying"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "glared",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "glared"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "glared"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "glared"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "glanced",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "glanced"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "glanced"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "glanced"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "leaped",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "leaped"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "leaped"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "leaped"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "blackberry",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "blackberry"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "blackberry"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "blackberry"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "delight",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "delight"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "delight"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "delight"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "mountainside",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "mountainside"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "mountainside"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "mountainside"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "Swiss Alps",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "afforestation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "afforestation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "afforestation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "afforestation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "respiratory",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "respiratory"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "respiratory"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "respiratory"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "diaphragm",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "diaphragm"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "diaphragm"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "diaphragm"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "tissue",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "tissue"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "tissue"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "tissue"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "muscular",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "muscular"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "muscular"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "muscular"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "skull",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "skull"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "skull"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "skull"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "inhalation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "inhalation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "inhalation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "inhalation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "deforestation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "deforestation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "deforestation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "deforestation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "streamlined",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "streamlined"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "streamlined"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "streamlined"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "flightless",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "flightless"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "flightless"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "flightless"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "invention",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "invention"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "invention"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "invention"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ancient",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ancient"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ancient"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ancient"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        },
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "rafts",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "rafts"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "rafts"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "rafts"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "submarine",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "submarine"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "submarine"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "submarine"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "passengers",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "passengers"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "passengers"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "passengers"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "development",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "development"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "development"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "development"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ports",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ports"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ports"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ports"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "responsibility",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "responsibility"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "responsibility"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "responsibility"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "encourage",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "encourage"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "encourage"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "encourage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        },
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "specific",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "specific"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "specific"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "specific"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "three-dimensional",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "three-dimensional"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "three-dimensional"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "three-dimensional"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "untitled",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "untitled"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "untitled"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "untitled"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "release",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "release"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "release"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "release"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "various",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "various"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "various"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "various"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "currency",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "currency"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "currency"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "currency"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "estimating",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "estimating"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "estimating"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "estimating"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "addition",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "addition"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "addition"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "addition"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "regrouping",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "regrouping"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "regrouping"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "regrouping"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "altogether",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "altogether"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "altogether"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "altogether"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "pastured",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "pastured"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "pastured"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "pastured"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "spread",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "spread"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "spread"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "spread"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "cistus",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cistus"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cistus"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cistus"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "excitedly",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "excitedly"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "excitedly"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "excitedly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "imagine",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "imagine"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "imagine"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "imagine"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "supports",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "supports"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "supports"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "supports"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "hesitantly",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "hesitantly"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "hesitantly"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "hesitantly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "advice"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "advice"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "advice"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "exclaimed",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "exclaimed"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "exclaimed"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "exclaimed"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "heartily",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "heartily"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "heartily"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "heartily"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "perching",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "perching"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "perching"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "perching"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "ornithologist",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ornithologist"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ornithologist"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ornithologist"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "container"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "container"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "container"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "imitating",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "imitating"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "imitating"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "imitating"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "weave",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "weave"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "weave"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "weave"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "mosquitoes",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "mosquitoes"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "mosquitoes"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "mosquitoes"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "vibrant",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "vibrant"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "vibrant"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "vibrant"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "antennae",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "antennae"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "antennae"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "antennae"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "chitin",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "chitin"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "chitin"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "chitin"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "louse",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "louse"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "louse"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "louse"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "respect",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "respect"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "respect"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "respect"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "participate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "participate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "participate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "participate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "occupations",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "occupations"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "occupations"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "occupations"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "professional",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "professional"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "professional"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "professional"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "historians",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "historians"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "historians"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "historians"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "calendar",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "calendar"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "calendar"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "calendar"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        },
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "anniversaries",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "anniversaries"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "anniversaries"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "anniversaries"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "decade",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "decade"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "decade"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "decade"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "century"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "century"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "century"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "subtrahend",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "subtrahend"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "subtrahend"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "subtrahend"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "minuend",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "minuend"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "minuend"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "minuend"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "difference",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "difference"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "difference"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "difference"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "borrow",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "borrow"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "borrow"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "borrow"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "estimate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "estimate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "estimate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "estimate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "sphere",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "sphere"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "sphere"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "sphere"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        },
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "library",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "library"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "library"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "library"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "canvas",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "canvas"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "canvas"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "canvas"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "Microsoft",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "Microsoft"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "Microsoft"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "Microsoft"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "doodle",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "doodle"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "doodle"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "doodle"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "water-babies",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "water-babies"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "water-babies"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "water-babies"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "chimney sweep",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sea-creatures",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "sea-creatures"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "sea-creatures"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "sea-creatures"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "boulder",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "boulder"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "boulder"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "boulder"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "seaweeds",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "seaweeds"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "seaweeds"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "seaweeds"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "mended",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "mended"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "mended"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "mended"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "rock pools",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sewers",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "sewers"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "sewers"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "sewers"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sea anemones",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "ripple",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ripple"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ripple"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ripple"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "saliva",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "saliva"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "saliva"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "saliva"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "thorax",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "thorax"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "thorax"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "thorax"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "abdomen",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "abdomen"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "abdomen"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "abdomen"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "cocoon",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cocoon"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cocoon"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cocoon"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "larva",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "larva"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "larva"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "larva"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "mounds",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "mounds"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "mounds"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "mounds"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "drones",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "drones"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "drones"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "drones"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "colonies",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "colonies"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "colonies"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "colonies"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "transmitting",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "transmitting"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "transmitting"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "transmitting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "caterpillar",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "caterpillar"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "caterpillar"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "caterpillar"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "community",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "community"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "community"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "community"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "domesticate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "domesticate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "domesticate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "domesticate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "vaccination",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "vaccination"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "vaccination"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "vaccination"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "disasters",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "disasters"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "disasters"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "disasters"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "extinguisher",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "extinguisher"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "extinguisher"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "extinguisher"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "labour",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "labour"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "labour"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "labour"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "infection",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "infection"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "infection"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "infection"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "inclusive",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "inclusive"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "inclusive"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "inclusive"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "Braille",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "Braille"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "Braille"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "Braille"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "communicate",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "communicate"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "communicate"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "communicate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "multiplicand",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "multiplicand"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "multiplicand"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "multiplicand"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "multiplier",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "multiplier"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "multiplier"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "multiplier"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "product",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "product"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "product"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "product"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "multiplication",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "multiplication"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "multiplication"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "multiplication"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "group",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "group"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "group"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "group"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "default",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "default"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "default"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "default"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "presentable",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "presentable"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "presentable"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "presentable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "maximize",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "maximize"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "maximize"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "maximize"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "automatically",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "automatically"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "automatically"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "automatically"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "cursor",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cursor"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cursor"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cursor"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "excitement",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "excitement"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "excitement"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "excitement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "board"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "board"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "board"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "compartment",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "compartment"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "compartment"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "compartment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "skipping",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "skipping"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "skipping"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "skipping"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "bubbling",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "bubbling"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "bubbling"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "bubbling"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "stagecoaches",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "stagecoaches"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "stagecoaches"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "stagecoaches"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "boiler",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "boiler"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "boiler"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "boiler"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "locomotives",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "locomotives"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "locomotives"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "locomotives"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "generator",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "generator"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "generator"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "generator"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "polluting",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "polluting"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "polluting"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "polluting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "hibiscus",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "hibiscus"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "hibiscus"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "hibiscus"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "edible",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "edible"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "edible"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "edible"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "swollen",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "swollen"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "swollen"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "swollen"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "fenugreek",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "fenugreek"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "fenugreek"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "fenugreek"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "consume",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "consume"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "consume"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "consume"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "ingredient",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ingredient"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ingredient"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ingredient"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "beverages",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "beverages"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "beverages"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "beverages"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "eucalyptus",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "eucalyptus"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "eucalyptus"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "eucalyptus"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "compost",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "compost"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "compost"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "compost"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "recycle",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "recycle"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "recycle"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "recycle"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "detergent",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "detergent"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "detergent"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "detergent"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "inflammable",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "inflammable"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "inflammable"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "inflammable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "poisonous",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "poisonous"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "poisonous"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "poisonous"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "gadgets",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "gadgets"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "gadgets"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "gadgets"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        },
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "antiseptic",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "antiseptic"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "antiseptic"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "antiseptic"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "thermometer",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "thermometer"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "thermometer"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "thermometer"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ointment",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ointment"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ointment"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ointment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "wound",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "wound"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "wound"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "wound"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "advertisements",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "advertisements"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "advertisements"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "advertisements"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "appliances",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "appliances"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "appliances"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "appliances"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "dividend",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "dividend"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "dividend"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "dividend"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "quotient",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "quotient"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "quotient"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "quotient"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "divisor",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "divisor"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "divisor"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "divisor"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "remainder",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "remainder"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "remainder"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "remainder"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "number line",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "existing",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "existing"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "existing"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "existing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "document",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "document"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "document"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "document"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "information",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "information"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "information"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "information"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "editing",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "editing"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "editing"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "editing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "interface",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "interface"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "interface"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "interface"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "cyclone",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cyclone"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cyclone"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cyclone"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "befriended",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "befriended"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "befriended"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "befriended"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "scarecrow",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "scarecrow"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "scarecrow"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "scarecrow"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "startled",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "startled"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "startled"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "startled"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "groans",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "groans"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "groans"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "groans"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "uncomfortable"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "uncomfortable"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "uncomfortable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "cornfield",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cornfield"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cornfield"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cornfield"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "growling",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "growling"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "growling"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "growling"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "shush",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "shush"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "shush"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "shush"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "tinsmith",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "tinsmith"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "tinsmith"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "tinsmith"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "vapour",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "vapour"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "vapour"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "vapour"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "volume",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "volume"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "volume"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "volume"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "compressed",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "compressed"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "compressed"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "compressed"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "inflates",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "inflates"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "inflates"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "inflates"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "buildings",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "buildings"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "buildings"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "buildings"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "temperature"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "temperature"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "temperature"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "vapourisation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "vapourisation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "vapourisation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "vapourisation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "condensation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "condensation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "condensation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "condensation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "saturated",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "saturated"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "saturated"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "saturated"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "cooking",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "cooking"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "cooking"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "cooking"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "heritage",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "heritage"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "heritage"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "heritage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ancestor",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ancestor"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ancestor"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ancestor"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "monument",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "monument"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "monument"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "monument"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "material",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "material"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "material"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "material"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "sculpture",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "sculpture"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "sculpture"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "sculpture"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "historical",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "historical"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "historical"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "historical"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "attraction",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "attraction"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "attraction"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "attraction"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "effigy",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "effigy"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "effigy"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "effigy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "exiled",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "exiled"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "exiled"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "exiled"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pattern",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "pattern"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "pattern"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "pattern"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "cylinder",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cylinder"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cylinder"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cylinder"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "diagonals",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "diagonals"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "diagonals"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "diagonals"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "tessellation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "tessellation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "tessellation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "tessellation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "adjacent",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "adjacent"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "adjacent"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "adjacent"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "feature",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "feature"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "feature"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "feature"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "assistants",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "assistants"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "assistants"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "assistants"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "gladdest",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "gladdest"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "gladdest"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "gladdest"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "cliffs",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cliffs"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cliffs"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cliffs"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "bow down",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sobbing",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "sobbing"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "sobbing"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "sobbing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "coward",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "coward"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "coward"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "coward"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "roared",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "roared"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "roared"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "roared"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "courage",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "courage"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "courage"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "courage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "rusted",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "rusted"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "rusted"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "rusted"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "straw",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "straw"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "straw"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "straw"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "oxygen",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "oxygen"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "oxygen"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "oxygen"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "evaporation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "evaporation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "evaporation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "evaporation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "humidity",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "humidity"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "humidity"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "humidity"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "precipitation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "precipitation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "precipitation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "precipitation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "teaspoons",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "teaspoons"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "teaspoons"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "teaspoons"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "melting",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "melting"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "melting"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "melting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "feather",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "feather"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "feather"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "feather"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "harvesting",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "harvesting"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "harvesting"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "harvesting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "leader",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "leader"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "leader"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "leader"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "protest",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "protest"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "protest"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "protest"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "satyagraha",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "satyagraha"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "satyagraha"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "satyagraha"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "revolt",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "revolt"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "revolt"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "revolt"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "circumstances",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "circumstances"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "circumstances"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "circumstances"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "swaraj",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "swaraj"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "swaraj"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "swaraj"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "triumphs",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "triumphs"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "triumphs"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "triumphs"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "country"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "country"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "country"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "inspiration",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "inspiration"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "inspiration"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "inspiration"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "prosperity",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "prosperity"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "prosperity"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "prosperity"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "mass",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "mass"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "mass"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "mass"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "capacity",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "capacity"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "capacity"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "capacity"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "millilitre",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "millilitre"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "millilitre"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "millilitre"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "measurement",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "measurement"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "measurement"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "measurement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "kilogram",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "kilogram"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "kilogram"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "kilogram"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "queries",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "queries"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "queries"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "queries"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "air conditioners",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "refrigerator"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "refrigerator"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "refrigerator"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "animated",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "animated"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "animated"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "animated"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "blocks palette",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "prodigy",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "prodigy"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "prodigy"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "prodigy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "enormously",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "enormously"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "enormously"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "enormously"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "spellbound",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "spellbound"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "spellbound"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "spellbound"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "recital",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "recital"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "recital"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "recital"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "curious"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "curious"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "curious"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "absolute",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "absolute"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "absolute"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "absolute"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "amazement",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "amazement"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "amazement"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "amazement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "splendid",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "splendid"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "splendid"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "splendid"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "flitting",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "flitting"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "flitting"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "flitting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "instantly",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "instantly"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "instantly"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "instantly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "kettle",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "kettle"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "kettle"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "kettle"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "droplets",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "droplets"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "droplets"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "droplets"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "hailstorms",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "hailstorms"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "hailstorms"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "hailstorms"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "ocean",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "ocean"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "ocean"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "ocean"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "germs",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "germs"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "germs"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "germs"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "strainer",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "strainer"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "strainer"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "strainer"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "eco-friendly",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "eco-friendly"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "eco-friendly"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "eco-friendly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "rooftop",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "rooftop"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "rooftop"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "rooftop"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "energy",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "energy"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "energy"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "energy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "raincoats",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "raincoats"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "raincoats"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "raincoats"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "constellation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "constellation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "constellation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "constellation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "satellite",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "satellite"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "satellite"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "satellite"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "celestial",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "celestial"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "celestial"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "celestial"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "galaxy",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "galaxy"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "galaxy"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "galaxy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "universe",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "universe"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "universe"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "universe"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "revolution",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "revolution"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "revolution"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "revolution"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "rotation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "rotation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "rotation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "rotation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "mnemonics",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "mnemonics"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "mnemonics"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "mnemonics"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "forecasting",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "forecasting"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "forecasting"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "forecasting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "bulging",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "bulging"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "bulging"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "bulging"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "minutes",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "minutes"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "minutes"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "minutes"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "ante meridiem",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "quarter past",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "fortnight",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "fortnight"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "fortnight"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "fortnight"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "script",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "script"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "script"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "script"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "requirement",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "requirement"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "requirement"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "requirement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "category",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "category"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "category"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "category"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "symbol",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "symbol"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "symbol"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "symbol"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "costume",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "costume"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "costume"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "costume"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "gymnast",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "gymnast"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "gymnast"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "gymnast"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "fascinated",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "fascinated"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "fascinated"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "fascinated"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "equipment"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "equipment"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "equipment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "set-up",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "set-up"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "set-up"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "set-up"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "conquer",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "conquer"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "conquer"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "conquer"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "flare-up",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "flare-up"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "flare-up"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "flare-up"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "discovered",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "She _____ very quickly.",
+          "answer": "discovered"
+        },
+        {
+          "question": "They _____ the game yesterday.",
+          "answer": "discovered"
+        },
+        {
+          "question": "Have you ever _____ before?",
+          "answer": "discovered"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "massive",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "massive"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "massive"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "massive"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "byamagar",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "byamagar"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "byamagar"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "byamagar"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "challenge",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "challenge"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "challenge"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "challenge"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "scalp",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "scalp"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "scalp"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "scalp"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "windmills",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "windmills"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "windmills"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "windmills"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "swimming",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "He was _____ behind the tree.",
+          "answer": "swimming"
+        },
+        {
+          "question": "They are _____ in the yard.",
+          "answer": "swimming"
+        },
+        {
+          "question": "Why are you _____ so fast?",
+          "answer": "swimming"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "playground",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "playground"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "playground"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "playground"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "healthy"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "healthy"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "healthy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "efficiently",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "efficiently"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "efficiently"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "efficiently"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "exercise",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "exercise"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "exercise"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "exercise"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "sanitation",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "sanitation"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "sanitation"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "sanitation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "football",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "football"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "football"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "football"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "cleanliness",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "cleanliness"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "cleanliness"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "cleanliness"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "environment",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "environment"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "environment"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "environment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pollutants",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "pollutants"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "pollutants"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "pollutants"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "sewage",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "sewage"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "sewage"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "sewage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pesticides",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "pesticides"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "pesticides"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "pesticides"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "harmful",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "harmful"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "harmful"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "harmful"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "emissions",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "emissions"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "emissions"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "emissions"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "migratory",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "migratory"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "migratory"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "migratory"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "recognitions",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "recognitions"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "recognitions"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "recognitions"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "clock",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "clock"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "clock"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "clock"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "key"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "key"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "key"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "data handling",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "pictograph",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "pictograph"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "pictograph"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "pictograph"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "stage",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "stage"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "stage"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "stage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "add extension",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "motion block",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "direction",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "direction"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "direction"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "direction"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "stamp",
+      "candidate": true,
+      "questions": [
+        {
+          "question": "I saw a _____ when I went outside.",
+          "answer": "stamp"
+        },
+        {
+          "question": "Please give me the _____.",
+          "answer": "stamp"
+        },
+        {
+          "question": "The _____ was on the table.",
+          "answer": "stamp"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "coding area",
+      "candidate": false,
+      "questions": [],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    }
+  ]
+}

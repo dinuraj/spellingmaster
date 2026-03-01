@@ -1,0 +1,7715 @@
+{
+  "meta": {
+    "source": "llm_templates",
+    "count": 333
+  },
+  "items": [
+    {
+      "word": "conversation",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "conversation"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "conversation"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "conversation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "weather"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "weather"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "weather"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "pleasant"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "pleasant"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "pleasant"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "favourite"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "favourite"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "favourite"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "squirrels",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "squirrels"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "squirrels"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "squirrels"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "celebrate",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "celebrate"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "celebrate"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "celebrate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "excited",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "excited"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "excited"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "excited"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "irregular",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "irregular"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "irregular"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "irregular"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "frightened",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "frightened"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "frightened"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "frightened"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        },
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "germinate",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "germinate"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "germinate"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "germinate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "locomotion",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "locomotion"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "locomotion"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "locomotion"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "breathing",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "breathing"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "breathing"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "breathing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "stomata",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "stomata"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "stomata"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "stomata"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "spiracles",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "spiracles"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "spiracles"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "spiracles"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "reproduction",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "reproduction"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "reproduction"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "reproduction"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "organism",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "organism"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "organism"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "organism"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "digestion",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "digestion"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "digestion"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "digestion"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "skeleton",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "skeleton"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "skeleton"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "skeleton"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "intestine",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "intestine"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "intestine"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "intestine"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "nuclear",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "nuclear"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "nuclear"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "nuclear"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "generation",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "generation"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "generation"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "generation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "organisation",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "organisation"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "organisation"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "organisation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "transferable",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "transferable"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "transferable"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "transferable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "orphanage",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "orphanage"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "orphanage"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "orphanage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "adopted",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "adopted"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "adopted"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "adopted"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "bungalow",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "bungalow"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "bungalow"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "bungalow"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "neighbourhood",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "neighbourhood"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "neighbourhood"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "neighbourhood"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "skyscrapers",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "skyscrapers"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "skyscrapers"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "skyscrapers"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "appearance",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "appearance"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "appearance"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "appearance"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "application",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "application"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "application"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "application"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        },
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "components",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "components"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "components"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "components"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "external",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "external"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "external"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "external"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "classified",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "classified"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "classified"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "classified"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "allocates",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "allocates"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "allocates"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "allocates"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "thousands",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "thousands"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "thousands"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "thousands"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "appropriate",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "appropriate"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "appropriate"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "appropriate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        },
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pictorial",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "pictorial"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "pictorial"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "pictorial"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "representation",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "representation"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "representation"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "representation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "comparison",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "comparison"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "comparison"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "comparison"
+        }
+      ],
+      "sources": [
+        {
+          "month": "June",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "spade",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "spade"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "spade"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "spade"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "twig",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "twig"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "twig"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "twig"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "swaying",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "swaying"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "swaying"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "swaying"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "glared",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "glared"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "glared"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "glared"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "glanced",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "glanced"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "glanced"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "glanced"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "leaped",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "leaped"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "leaped"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "leaped"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "blackberry",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "blackberry"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "blackberry"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "blackberry"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "delight",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "delight"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "delight"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "delight"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "mountainside",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "mountainside"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "mountainside"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "mountainside"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "afforestation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "afforestation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "afforestation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "afforestation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "respiratory",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "respiratory"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "respiratory"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "respiratory"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "diaphragm",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "diaphragm"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "diaphragm"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "diaphragm"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "tissue",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "tissue"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "tissue"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "tissue"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "muscular",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "muscular"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "muscular"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "muscular"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "skull",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "skull"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "skull"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "skull"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "inhalation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "inhalation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "inhalation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "inhalation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "deforestation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "deforestation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "deforestation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "deforestation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "streamlined",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "streamlined"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "streamlined"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "streamlined"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "flightless",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "flightless"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "flightless"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "flightless"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "invention",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "invention"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "invention"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "invention"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ancient",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "ancient"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "ancient"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "ancient"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        },
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "rafts",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "rafts"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "rafts"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "rafts"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "submarine",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "submarine"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "submarine"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "submarine"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "passengers",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "passengers"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "passengers"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "passengers"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "development",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "development"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "development"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "development"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ports",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "ports"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "ports"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "ports"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "responsibility",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "responsibility"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "responsibility"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "responsibility"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "encourage",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "encourage"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "encourage"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "encourage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "SST"
+        },
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "specific",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "specific"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "specific"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "specific"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "three-dimensional",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "three-dimensional"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "three-dimensional"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "three-dimensional"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "untitled",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "untitled"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "untitled"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "untitled"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "release",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "release"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "release"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "release"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "various",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "various"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "various"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "various"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "currency",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "currency"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "currency"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "currency"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "estimating",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "estimating"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "estimating"
+        },
+        {
+          "question": "They were _____ helps us understand numbers.",
+          "answer": "estimating"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "addition",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "addition"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "addition"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "addition"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "regrouping",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "regrouping"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "regrouping"
+        },
+        {
+          "question": "They were _____ helps us understand numbers.",
+          "answer": "regrouping"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "altogether",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "altogether"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "altogether"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "altogether"
+        }
+      ],
+      "sources": [
+        {
+          "month": "July",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "pastured",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "pastured"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "pastured"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "pastured"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "spread",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "spread"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "spread"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "spread"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "cistus",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "cistus"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "cistus"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "cistus"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "excitedly",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "excitedly"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "excitedly"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "excitedly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "imagine",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "imagine"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "imagine"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "imagine"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "supports",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "supports"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "supports"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "supports"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "hesitantly",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "hesitantly"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "hesitantly"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "hesitantly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "advice"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "advice"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "advice"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "exclaimed",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "exclaimed"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "exclaimed"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "exclaimed"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "heartily",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "heartily"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "heartily"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "heartily"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "perching",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "perching"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "perching"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "perching"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "ornithologist",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "ornithologist"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "ornithologist"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "ornithologist"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "container"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "container"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "container"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "imitating",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "imitating"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "imitating"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "imitating"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "weave",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "weave"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "weave"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "weave"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "mosquitoes",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "mosquitoes"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "mosquitoes"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "mosquitoes"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "vibrant",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "vibrant"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "vibrant"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "vibrant"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "antennae",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "antennae"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "antennae"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "antennae"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "chitin",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "chitin"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "chitin"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "chitin"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "louse",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "louse"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "louse"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "louse"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "respect",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "respect"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "respect"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "respect"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "participate",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "participate"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "participate"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "participate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "occupations",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "occupations"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "occupations"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "occupations"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "professional",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "professional"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "professional"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "professional"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "historians",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "historians"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "historians"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "historians"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "calendar",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "calendar"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "calendar"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "calendar"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        },
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "anniversaries",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "anniversaries"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "anniversaries"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "anniversaries"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "decade",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "decade"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "decade"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "decade"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "century"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "century"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "century"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "subtrahend",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "subtrahend"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "subtrahend"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "subtrahend"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "minuend",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "minuend"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "minuend"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "minuend"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "difference",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "difference"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "difference"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "difference"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "borrow",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "borrow"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "borrow"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "borrow"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "estimate",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "estimate"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "estimate"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "estimate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "sphere",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "sphere"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "sphere"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "sphere"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        },
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "library",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "library"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "library"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "library"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "canvas",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "canvas"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "canvas"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "canvas"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "Microsoft",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "Microsoft"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "Microsoft"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "Microsoft"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "doodle",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "doodle"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "doodle"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "doodle"
+        }
+      ],
+      "sources": [
+        {
+          "month": "August",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "water-babies",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "water-babies"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "water-babies"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "water-babies"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sea-creatures",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "sea-creatures"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "sea-creatures"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "sea-creatures"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "boulder",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "boulder"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "boulder"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "boulder"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "seaweeds",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "seaweeds"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "seaweeds"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "seaweeds"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "mended",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "mended"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "mended"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "mended"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sewers",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "sewers"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "sewers"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "sewers"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "ripple",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "ripple"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "ripple"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "ripple"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "saliva",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "saliva"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "saliva"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "saliva"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "thorax",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "thorax"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "thorax"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "thorax"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "abdomen",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "abdomen"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "abdomen"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "abdomen"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "cocoon",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "cocoon"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "cocoon"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "cocoon"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "larva",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "larva"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "larva"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "larva"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "mounds",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "mounds"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "mounds"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "mounds"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "drones",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "drones"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "drones"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "drones"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "colonies",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "colonies"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "colonies"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "colonies"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "transmitting",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "transmitting"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "transmitting"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "transmitting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "caterpillar",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "caterpillar"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "caterpillar"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "caterpillar"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "community",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "community"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "community"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "community"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "domesticate",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "domesticate"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "domesticate"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "domesticate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "vaccination",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "vaccination"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "vaccination"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "vaccination"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "disasters",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "disasters"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "disasters"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "disasters"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "extinguisher",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "extinguisher"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "extinguisher"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "extinguisher"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "labour",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "labour"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "labour"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "labour"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "infection",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "infection"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "infection"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "infection"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "inclusive",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "inclusive"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "inclusive"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "inclusive"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "Braille",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "Braille"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "Braille"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "Braille"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "communicate",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "communicate"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "communicate"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "communicate"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "multiplicand",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "multiplicand"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "multiplicand"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "multiplicand"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "multiplier",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "multiplier"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "multiplier"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "multiplier"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "product",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "product"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "product"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "product"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "multiplication",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "multiplication"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "multiplication"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "multiplication"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "group",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "group"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "group"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "group"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "default",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "default"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "default"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "default"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "presentable",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "presentable"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "presentable"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "presentable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "maximize",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "maximize"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "maximize"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "maximize"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "automatically",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "automatically"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "automatically"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "automatically"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "cursor",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "cursor"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "cursor"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "cursor"
+        }
+      ],
+      "sources": [
+        {
+          "month": "September",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "excitement",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "excitement"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "excitement"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "excitement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "board"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "board"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "board"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "compartment",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "compartment"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "compartment"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "compartment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "skipping",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "skipping"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "skipping"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "skipping"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "bubbling",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "bubbling"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "bubbling"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "bubbling"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "stagecoaches",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "stagecoaches"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "stagecoaches"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "stagecoaches"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "boiler",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "boiler"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "boiler"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "boiler"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "locomotives",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "locomotives"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "locomotives"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "locomotives"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "generator",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "generator"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "generator"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "generator"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "polluting",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "polluting"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "polluting"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "polluting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "hibiscus",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "hibiscus"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "hibiscus"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "hibiscus"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "edible",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "edible"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "edible"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "edible"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "swollen",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "swollen"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "swollen"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "swollen"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "fenugreek",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "fenugreek"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "fenugreek"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "fenugreek"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "consume",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "consume"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "consume"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "consume"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "ingredient",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "ingredient"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "ingredient"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "ingredient"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "beverages",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "beverages"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "beverages"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "beverages"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "eucalyptus",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "eucalyptus"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "eucalyptus"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "eucalyptus"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "compost",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "compost"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "compost"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "compost"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "recycle",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "recycle"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "recycle"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "recycle"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "detergent",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "detergent"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "detergent"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "detergent"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "inflammable",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "inflammable"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "inflammable"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "inflammable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "poisonous",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "poisonous"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "poisonous"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "poisonous"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "gadgets",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "gadgets"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "gadgets"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "gadgets"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        },
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "antiseptic",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "antiseptic"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "antiseptic"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "antiseptic"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "thermometer",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "thermometer"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "thermometer"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "thermometer"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ointment",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "ointment"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "ointment"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "ointment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "wound",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "wound"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "wound"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "wound"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "advertisements",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "advertisements"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "advertisements"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "advertisements"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "appliances",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "appliances"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "appliances"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "appliances"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "dividend",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "dividend"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "dividend"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "dividend"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "quotient",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "quotient"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "quotient"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "quotient"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "divisor",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "divisor"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "divisor"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "divisor"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "remainder",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "remainder"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "remainder"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "remainder"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "existing",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "existing"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "existing"
+        },
+        {
+          "question": "They were _____ helps us understand numbers.",
+          "answer": "existing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "document",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "document"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "document"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "document"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "information",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "information"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "information"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "information"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "editing",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "editing"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "editing"
+        },
+        {
+          "question": "They were _____ helps us understand numbers.",
+          "answer": "editing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "interface",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "interface"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "interface"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "interface"
+        }
+      ],
+      "sources": [
+        {
+          "month": "October",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "cyclone",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "cyclone"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "cyclone"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "cyclone"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "befriended",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "befriended"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "befriended"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "befriended"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "scarecrow",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "scarecrow"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "scarecrow"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "scarecrow"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "startled",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "startled"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "startled"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "startled"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "groans",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "groans"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "groans"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "groans"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "uncomfortable"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "uncomfortable"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "uncomfortable"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "cornfield",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "cornfield"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "cornfield"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "cornfield"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "growling",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "growling"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "growling"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "growling"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "shush",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "shush"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "shush"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "shush"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "tinsmith",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "tinsmith"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "tinsmith"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "tinsmith"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "vapour",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "vapour"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "vapour"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "vapour"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "volume",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "volume"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "volume"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "volume"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "compressed",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "compressed"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "compressed"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "compressed"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "inflates",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "inflates"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "inflates"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "inflates"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "buildings",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "buildings"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "buildings"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "buildings"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "temperature"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "temperature"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "temperature"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        },
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "vapourisation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "vapourisation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "vapourisation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "vapourisation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "condensation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "condensation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "condensation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "condensation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "saturated",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "saturated"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "saturated"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "saturated"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "cooking",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "cooking"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "cooking"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "cooking"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "heritage",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "heritage"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "heritage"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "heritage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "ancestor",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "ancestor"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "ancestor"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "ancestor"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "monument",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "monument"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "monument"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "monument"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "material",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "material"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "material"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "material"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "sculpture",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "sculpture"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "sculpture"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "sculpture"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "historical",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "historical"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "historical"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "historical"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "attraction",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "attraction"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "attraction"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "attraction"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "effigy",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "effigy"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "effigy"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "effigy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "exiled",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "exiled"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "exiled"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "exiled"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pattern",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "pattern"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "pattern"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "pattern"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "cylinder",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "cylinder"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "cylinder"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "cylinder"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "diagonals",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "diagonals"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "diagonals"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "diagonals"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "tessellation",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "tessellation"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "tessellation"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "tessellation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "adjacent",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "adjacent"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "adjacent"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "adjacent"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "feature",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "feature"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "feature"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "feature"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "assistants",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "assistants"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "assistants"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "assistants"
+        }
+      ],
+      "sources": [
+        {
+          "month": "November",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "gladdest",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "gladdest"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "gladdest"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "gladdest"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "cliffs",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "cliffs"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "cliffs"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "cliffs"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "sobbing",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "sobbing"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "sobbing"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "sobbing"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "coward",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "coward"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "coward"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "coward"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "roared",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "roared"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "roared"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "roared"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "courage",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "courage"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "courage"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "courage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "rusted",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "rusted"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "rusted"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "rusted"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "straw",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "straw"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "straw"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "straw"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "oxygen",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "oxygen"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "oxygen"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "oxygen"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "evaporation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "evaporation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "evaporation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "evaporation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "humidity",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "humidity"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "humidity"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "humidity"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "precipitation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "precipitation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "precipitation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "precipitation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "teaspoons",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "teaspoons"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "teaspoons"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "teaspoons"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "melting",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "melting"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "melting"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "melting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "feather",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "feather"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "feather"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "feather"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "harvesting",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "harvesting"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "harvesting"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "harvesting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "leader",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "leader"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "leader"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "leader"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "protest",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "protest"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "protest"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "protest"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "satyagraha",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "satyagraha"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "satyagraha"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "satyagraha"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "revolt",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "revolt"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "revolt"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "revolt"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "circumstances",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "circumstances"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "circumstances"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "circumstances"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "swaraj",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "swaraj"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "swaraj"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "swaraj"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "triumphs",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "triumphs"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "triumphs"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "triumphs"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "country"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "country"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "country"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "inspiration",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "inspiration"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "inspiration"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "inspiration"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "prosperity",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "prosperity"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "prosperity"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "prosperity"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "mass",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "mass"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "mass"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "mass"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "capacity",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "capacity"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "capacity"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "capacity"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "millilitre",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "millilitre"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "millilitre"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "millilitre"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "measurement",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "measurement"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "measurement"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "measurement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "kilogram",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "kilogram"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "kilogram"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "kilogram"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "queries",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "queries"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "queries"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "queries"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "refrigerator"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "refrigerator"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "refrigerator"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "animated",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "animated"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "animated"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "animated"
+        }
+      ],
+      "sources": [
+        {
+          "month": "December",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "prodigy",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "prodigy"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "prodigy"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "prodigy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "enormously",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "enormously"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "enormously"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "enormously"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "spellbound",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "spellbound"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "spellbound"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "spellbound"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "recital",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "recital"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "recital"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "recital"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "curious"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "curious"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "curious"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "absolute",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "absolute"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "absolute"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "absolute"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "amazement",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "amazement"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "amazement"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "amazement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "splendid",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "splendid"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "splendid"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "splendid"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "flitting",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "flitting"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "flitting"
+        },
+        {
+          "question": "They were _____ fits perfectly in that sentence.",
+          "answer": "flitting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "instantly",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "instantly"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "instantly"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "instantly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "kettle",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "kettle"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "kettle"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "kettle"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "droplets",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "droplets"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "droplets"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "droplets"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "hailstorms",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "hailstorms"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "hailstorms"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "hailstorms"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "ocean",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "ocean"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "ocean"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "ocean"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "germs",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "germs"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "germs"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "germs"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "strainer",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "strainer"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "strainer"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "strainer"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "eco-friendly",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "eco-friendly"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "eco-friendly"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "eco-friendly"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "rooftop",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "rooftop"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "rooftop"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "rooftop"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "energy",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "energy"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "energy"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "energy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "raincoats",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "raincoats"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "raincoats"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "raincoats"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "constellation",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "constellation"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "constellation"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "constellation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "satellite",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "satellite"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "satellite"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "satellite"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "celestial",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "celestial"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "celestial"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "celestial"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "galaxy",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "galaxy"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "galaxy"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "galaxy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "universe",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "universe"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "universe"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "universe"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "revolution",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "revolution"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "revolution"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "revolution"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "rotation",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "rotation"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "rotation"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "rotation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "mnemonics",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "mnemonics"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "mnemonics"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "mnemonics"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "forecasting",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "forecasting"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "forecasting"
+        },
+        {
+          "question": "They were _____ changed the way people lived.",
+          "answer": "forecasting"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "bulging",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "bulging"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "bulging"
+        },
+        {
+          "question": "They were _____ changed the way people lived.",
+          "answer": "bulging"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "minutes",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "minutes"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "minutes"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "minutes"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "fortnight",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "fortnight"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "fortnight"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "fortnight"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "script",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "script"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "script"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "script"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "requirement",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "requirement"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "requirement"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "requirement"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "category",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "category"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "category"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "category"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "symbol",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "symbol"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "symbol"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "symbol"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "costume",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "costume"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "costume"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "costume"
+        }
+      ],
+      "sources": [
+        {
+          "month": "January",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "gymnast",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "gymnast"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "gymnast"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "gymnast"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "fascinated",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "fascinated"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "fascinated"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "fascinated"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "equipment"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "equipment"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "equipment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "set-up",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "set-up"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "set-up"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "set-up"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "conquer",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "conquer"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "conquer"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "conquer"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "flare-up",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "flare-up"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "flare-up"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "flare-up"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "discovered",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "discovered"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "discovered"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "discovered"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "massive",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "massive"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "massive"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "massive"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "byamagar",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "byamagar"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "byamagar"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "byamagar"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "challenge",
+      "questions": [
+        {
+          "question": "During reading, she found the _____ in the paragraph.",
+          "answer": "challenge"
+        },
+        {
+          "question": "Can you write the _____ on the board?",
+          "answer": "challenge"
+        },
+        {
+          "question": "The _____ fits perfectly in that sentence.",
+          "answer": "challenge"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "word": "scalp",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "scalp"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "scalp"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "scalp"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "windmills",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "windmills"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "windmills"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "windmills"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "swimming",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "swimming"
+        },
+        {
+          "question": "They were _____ can be seen during the experiment.",
+          "answer": "swimming"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "swimming"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "playground",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "playground"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "playground"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "playground"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "healthy"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "healthy"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "healthy"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "efficiently",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "efficiently"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "efficiently"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "efficiently"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "exercise",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "exercise"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "exercise"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "exercise"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "sanitation",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "sanitation"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "sanitation"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "sanitation"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "football",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "football"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "football"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "football"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "cleanliness",
+      "questions": [
+        {
+          "question": "In our science class, the _____ helped us understand the idea.",
+          "answer": "cleanliness"
+        },
+        {
+          "question": "The _____ can be seen during the experiment.",
+          "answer": "cleanliness"
+        },
+        {
+          "question": "Scientists study how the _____ works in nature.",
+          "answer": "cleanliness"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SCIENCE"
+        }
+      ]
+    },
+    {
+      "word": "environment",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "environment"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "environment"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "environment"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pollutants",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "pollutants"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "pollutants"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "pollutants"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "sewage",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "sewage"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "sewage"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "sewage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "pesticides",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "pesticides"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "pesticides"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "pesticides"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "harmful",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "harmful"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "harmful"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "harmful"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "emissions",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "emissions"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "emissions"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "emissions"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "migratory",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "migratory"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "migratory"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "migratory"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "recognitions",
+      "questions": [
+        {
+          "question": "The museum displayed a _____ from the past.",
+          "answer": "recognitions"
+        },
+        {
+          "question": "People in the town used the _____ long ago.",
+          "answer": "recognitions"
+        },
+        {
+          "question": "The _____ changed the way people lived.",
+          "answer": "recognitions"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "SST"
+        }
+      ]
+    },
+    {
+      "word": "clock",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "clock"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "clock"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "clock"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "key"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "key"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "key"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "pictograph",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "pictograph"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "pictograph"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "pictograph"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "stage",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "stage"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "stage"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "stage"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "direction",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "direction"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "direction"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "direction"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    },
+    {
+      "word": "stamp",
+      "questions": [
+        {
+          "question": "We used the _____ to solve the problem.",
+          "answer": "stamp"
+        },
+        {
+          "question": "Draw the _____ on your paper.",
+          "answer": "stamp"
+        },
+        {
+          "question": "The _____ helps us understand numbers.",
+          "answer": "stamp"
+        }
+      ],
+      "sources": [
+        {
+          "month": "February",
+          "subject": "MATH/ICT"
+        }
+      ]
+    }
+  ]
+}

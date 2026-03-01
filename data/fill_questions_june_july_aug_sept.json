@@ -1,0 +1,1426 @@
+{
+  "items": [
+    {
+      "word": "conversation",
+      "suitable": true,
+      "questions": [
+        {"question": "During lunch they had a long _____ about their school project.", "answer": "conversation"},
+        {"question": "I couldn't hear the _____ because the classroom was noisy.", "answer": "conversation"},
+        {"question": "After a short _____, they agreed to help each other.", "answer": "conversation"}
+      ]
+    },
+    {
+      "word": "weather",
+      "suitable": true,
+      "questions": [
+        {"question": "The _____ was sunny and warm for our afternoon picnic.", "answer": "weather"},
+        {"question": "We had to stay inside because the _____ was rainy and cold.", "answer": "weather"},
+        {"question": "Always check the _____ forecast before planning a trip to the beach.", "answer": "weather"}
+      ]
+    },
+    {
+      "word": "pleasant",
+      "suitable": true,
+      "questions": [
+        {"question": "A cool breeze made the hot afternoon feel very _____.", "answer": "pleasant"},
+        {"question": "The fresh flowers gave the room a _____ smell.", "answer": "pleasant"},
+        {"question": "We had a _____ time walking in the park with our friends.", "answer": "pleasant"}
+      ]
+    },
+    {
+      "word": "favourite",
+      "suitable": true,
+      "questions": [
+        {"question": "Blue is my absolute _____ colour to paint with.", "answer": "favourite"},
+        {"question": "Pancakes are her _____ breakfast to eat on Sundays.", "answer": "favourite"},
+        {"question": "That dinosaur story is his _____ book to read at bedtime.", "answer": "favourite"}
+      ]
+    },
+    {
+      "word": "squirrels",
+      "suitable": true,
+      "questions": [
+        {"question": "The _____ climbed the oak tree to reach the acorns.", "answer": "squirrels"},
+        {"question": "We saw two fluffy _____ chasing each other across the park.", "answer": "squirrels"},
+        {"question": "The children watched the _____ gather nuts to save for winter.", "answer": "squirrels"}
+      ]
+    },
+    {
+      "word": "celebrate",
+      "suitable": true,
+      "questions": [
+        {"question": "We will _____ her birthday with a chocolate cake and balloons.", "answer": "celebrate"},
+        {"question": "The class will _____ finishing the tough math book by having a party.", "answer": "celebrate"},
+        {"question": "Families often _____ the harvest festival with songs and special food.", "answer": "celebrate"}
+      ]
+    },
+    {
+      "word": "excited",
+      "suitable": true,
+      "questions": [
+        {"question": "She was so _____ to open her gift that she could barely wait.", "answer": "excited"},
+        {"question": "The students were _____ about the surprise bus trip to the museum.", "answer": "excited"},
+        {"question": "He jumped up and down, completely _____ to begin the science experiment.", "answer": "excited"}
+      ]
+    },
+    {
+      "word": "irregular",
+      "suitable": true,
+      "questions": [
+        {"question": "This spelling word is _____ and doesn't follow the normal phonics rules.", "answer": "irregular"},
+        {"question": "She noticed an _____ heartbeat and told the school nurse.", "answer": "irregular"},
+        {"question": "The shape of the broken rock was bumpy and completely _____.", "answer": "irregular"}
+      ]
+    },
+    {
+      "word": "frightened",
+      "suitable": true,
+      "questions": [
+        {"question": "The loud crash of thunder made the puppy _____ and hide under the bed.", "answer": "frightened"},
+        {"question": "She felt _____ when she saw the spooky shadow on her bedroom wall.", "answer": "frightened"},
+        {"question": "Don't be _____; the monster mask is only for fun.", "answer": "frightened"}
+      ]
+    },
+    {
+      "word": "germinate",
+      "suitable": true,
+      "questions": [
+        {"question": "With water and warmth, the little seed will begin to _____ in the dirt.", "answer": "germinate"},
+        {"question": "Farmers plant crops and wait for the seeds to _____ into green shoots.", "answer": "germinate"},
+        {"question": "If you keep the paper towel moist, the bean will _____ quickly.", "answer": "germinate"}
+      ]
+    },
+    {
+      "word": "locomotion",
+      "suitable": true,
+      "questions": [
+        {"question": "Frogs use their strong back legs for _____ across the land.", "answer": "locomotion"},
+        {"question": "Scientists study the _____ of cheetahs to see how they run so fast.", "answer": "locomotion"},
+        {"question": "The science chapter on _____ explained how different animals walk and swim.", "answer": "locomotion"}
+      ]
+    },
+    {
+      "word": "breathing",
+      "suitable": true,
+      "questions": [
+        {"question": "Lungs are the main body organs used for _____ in humans.", "answer": "breathing"},
+        {"question": "When you are running very fast, your _____ becomes heavier and faster.", "answer": "breathing"},
+        {"question": "Fish use their gills for _____ when they are deep underwater.", "answer": "breathing"}
+      ]
+    },
+    {
+      "word": "stomata",
+      "suitable": true,
+      "questions": [
+        {"question": "Plants take in air through tiny holes in their leaves called _____.", "answer": "stomata"},
+        {"question": "During the day, the _____ open to let carbon dioxide into the plant.", "answer": "stomata"},
+        {"question": "Microscopes help us see the invisible _____ on the bottom of a leaf.", "answer": "stomata"}
+      ]
+    },
+    {
+      "word": "spiracles",
+      "suitable": true,
+      "questions": [
+        {"question": "Insects breathe through small openings called _____ located on their sides.", "answer": "spiracles"},
+        {"question": "A hungry caterpillar takes in fresh air through its _____.", "answer": "spiracles"},
+        {"question": "Grasshoppers do not have lungs, so they must use _____ to get oxygen.", "answer": "spiracles"}
+      ]
+    },
+    {
+      "word": "reproduction",
+      "suitable": true,
+      "questions": [
+        {"question": "The natural process of an animal producing young ones is known as _____.", "answer": "reproduction"},
+        {"question": "Creating seeds is a very important type of _____ in flowering plants.", "answer": "reproduction"},
+        {"question": "Bird _____ involves laying eggs in a carefully built nest.", "answer": "reproduction"}
+      ]
+    },
+    {
+      "word": "life span",
+      "suitable": true,
+      "questions": [
+        {"question": "The normal _____ of a healthy pet dog is usually around 10 to 15 years.", "answer": "life span"},
+        {"question": "A pretty butterfly has a very short _____ of only a few weeks.", "answer": "life span"},
+        {"question": "Some giant turtle species can have a _____ that lasts for over a hundred years.", "answer": "life span"}
+      ]
+    },
+    {
+      "word": "organism",
+      "suitable": true,
+      "questions": [
+        {"question": "Every living _____ needs water and food to survive.", "answer": "organism"},
+        {"question": "A tiny bacteria is considered a single-celled _____.", "answer": "organism"},
+        {"question": "Any animal, plant, or bug is studied in science as a living _____.", "answer": "organism"}
+      ]
+    },
+    {
+      "word": "digestion",
+      "suitable": true,
+      "questions": [
+        {"question": "Chewing your food slowly and well helps with easy _____.", "answer": "digestion"},
+        {"question": "The stomach produces special juices that help in the _____ of your meal.", "answer": "digestion"},
+        {"question": "After we eat lunch, _____ breaks the food down to give us energy.", "answer": "digestion"}
+      ]
+    },
+    {
+      "word": "skeleton",
+      "suitable": true,
+      "questions": [
+        {"question": "The giant dinosaur's _____ was displayed carefully in the museum.", "answer": "skeleton"},
+        {"question": "Bones in the human _____ help us stand upright and protect our organs.", "answer": "skeleton"},
+        {"question": "She learned that the hard skull is an important part of the _____.", "answer": "skeleton"}
+      ]
+    },
+    {
+      "word": "intestine",
+      "suitable": true,
+      "questions": [
+        {"question": "After leaving the stomach, mashed food moves directly into the small _____.", "answer": "intestine"},
+        {"question": "Water is absorbed from leftover food by the large _____ in our body.", "answer": "intestine"},
+        {"question": "The _____ is a very long, coiled tube that finishes digesting our meals.", "answer": "intestine"}
+      ]
+    },
+    {
+      "word": "nuclear",
+      "suitable": true,
+      "questions": [
+        {"question": "A family consisting of only parents and their children is called a _____ family.", "answer": "nuclear"},
+        {"question": "They live in a small _____ family with just their mom, dad, and sister.", "answer": "nuclear"},
+        {"question": "A _____ family is usually much smaller than a joint family.", "answer": "nuclear"}
+      ]
+    },
+    {
+      "word": "generation",
+      "suitable": true,
+      "questions": [
+        {"question": "My grandparents belong to an older _____ than my parents do.", "answer": "generation"},
+        {"question": "Each _____ passes down important stories and traditions to their children.", "answer": "generation"},
+        {"question": "The newest _____ of smartphones works much faster than the old ones.", "answer": "generation"}
+      ]
+    },
+    {
+      "word": "organisation",
+      "suitable": true,
+      "questions": [
+        {"question": "The local charity is an _____ that helps provide food to poor children.", "answer": "organisation"},
+        {"question": "Our school is a very large _____ with many teachers, helpers, and students.", "answer": "organisation"},
+        {"question": "Setting up the library books requires good _____ to keep things tidy.", "answer": "organisation"}
+      ]
+    },
+    {
+      "word": "transferable",
+      "suitable": true,
+      "questions": [
+        {"question": "My father's job is _____, which means we have to move to a new city often.", "answer": "transferable"},
+        {"question": "Since her computer skills are _____, she can easily work in many different offices.", "answer": "transferable"},
+        {"question": "The special train ticket is not _____, meaning only I am allowed to use it.", "answer": "transferable"}
+      ]
+    },
+    {
+      "word": "orphanage",
+      "suitable": true,
+      "questions": [
+        {"question": "The kids living at the _____ were very happy to receive the donated toys.", "answer": "orphanage"},
+        {"question": "An _____ provides a safe home for children who have sadly lost their parents.", "answer": "orphanage"},
+        {"question": "We visited the local _____ to give away our old clothes and books.", "answer": "orphanage"}
+      ]
+    },
+    {
+      "word": "adopted",
+      "suitable": true,
+      "questions": [
+        {"question": "They _____ a cute rescue puppy from the local animal shelter last week.", "answer": "adopted"},
+        {"question": "The kind family _____ a baby girl and brought her home to love her.", "answer": "adopted"},
+        {"question": "He was _____ as a baby and grew up with wonderful, caring parents.", "answer": "adopted"}
+      ]
+    },
+    {
+      "word": "bungalow",
+      "suitable": true,
+      "questions": [
+        {"question": "They live in a beautiful single-story _____ right near the sandy beach.", "answer": "bungalow"},
+        {"question": "The large _____ has a huge front porch and a garden all around it.", "answer": "bungalow"},
+        {"question": "My grandfather built a lovely _____ because he didn't want to climb stairs.", "answer": "bungalow"}
+      ]
+    },
+    {
+      "word": "neighbourhood",
+      "suitable": true,
+      "questions": [
+        {"question": "We have many friendly kids living right in our own _____.", "answer": "neighbourhood"},
+        {"question": "They walked around the _____ to meet the families living on their street.", "answer": "neighbourhood"},
+        {"question": "There is a nice community park in my _____ where everyone goes to play.", "answer": "neighbourhood"}
+      ]
+    },
+    {
+      "word": "skyscrapers",
+      "suitable": true,
+      "questions": [
+        {"question": "The big city is filled with tall _____ that seem to touch the clouds.", "answer": "skyscrapers"},
+        {"question": "Fast elevators are needed to go up the many floors of modern _____.", "answer": "skyscrapers"},
+        {"question": "We looked up at the shiny glass windows of the massive _____ downtown.", "answer": "skyscrapers"}
+      ]
+    },
+    {
+      "word": "appearance",
+      "suitable": true,
+      "questions": [
+        {"question": "Wearing a neat and ironed uniform gave the student a very smart _____.", "answer": "appearance"},
+        {"question": "We are taught never to judge a person just by their outward _____.", "answer": "appearance"},
+        {"question": "Brushing your hair and washing your face improves your overall _____.", "answer": "appearance"}
+      ]
+    },
+    {
+      "word": "application",
+      "suitable": true,
+      "questions": [
+        {"question": "Paint is a fun computer _____ used for drawing and coloring pictures.", "answer": "application"},
+        {"question": "You can open the calculator _____ on the tablet to solve math problems.", "answer": "application"},
+        {"question": "Which software _____ do you normally use to type your reading homework?", "answer": "application"}
+      ]
+    },
+    {
+      "word": "components",
+      "suitable": true,
+      "questions": [
+        {"question": "A keyboard, mouse, and monitor are all important _____ of a computer system.", "answer": "components"},
+        {"question": "The jigsaw puzzle is missing a few important _____ so we cannot finish it.", "answer": "components"},
+        {"question": "We learned about the different metal _____ that make up a car engine.", "answer": "components"}
+      ]
+    },
+    {
+      "word": "external",
+      "suitable": true,
+      "questions": [
+        {"question": "A USB pen drive is an _____ storage device that you plug into the machine.", "answer": "external"},
+        {"question": "The turtle has an _____ shell to protect the soft body inside.", "answer": "external"},
+        {"question": "You must plug the _____ speakers into the laptop to hear the loud music.", "answer": "external"}
+      ]
+    },
+    {
+      "word": "classified",
+      "suitable": true,
+      "questions": [
+        {"question": "Animals can be _____ into different groups like mammals, birds, and reptiles.", "answer": "classified"},
+        {"question": "The library books are _____ by subject so they are easier to find.", "answer": "classified"},
+        {"question": "In math, shapes are _____ by counting the number of sides they have.", "answer": "classified"}
+      ]
+    },
+    {
+      "word": "allocates",
+      "suitable": true,
+      "questions": [
+        {"question": "The computer system automatically _____ memory to save your new drawing.", "answer": "allocates"},
+        {"question": "The school principal _____ money from the budget to buy new playground balls.", "answer": "allocates"},
+        {"question": "Our daily class schedule _____ thirty minutes for lunch every day.", "answer": "allocates"}
+      ]
+    },
+    {
+      "word": "thousands",
+      "suitable": true,
+      "questions": [
+        {"question": "The number 5,234 has a five sitting in the _____ place.", "answer": "thousands"},
+        {"question": "There were _____ of cheering people filling the big baseball stadium.", "answer": "thousands"},
+        {"question": "In place value, ten hundreds put together make one _____.", "answer": "thousands"}
+      ]
+    },
+    {
+      "word": "appropriate",
+      "suitable": true,
+      "questions": [
+        {"question": "Make sure to wear _____ clothing, like a heavy coat, for the cold winter weather.", "answer": "appropriate"},
+        {"question": "It is never _____ to shout or run when you are inside the library.", "answer": "appropriate"},
+        {"question": "The teacher chose an _____ storybook that wasn't too hard for the third graders.", "answer": "appropriate"}
+      ]
+    },
+    {
+      "word": "pictorial",
+      "suitable": true,
+      "questions": [
+        {"question": "A bar graph is a clear _____ way to show math data using bars.", "answer": "pictorial"},
+        {"question": "The colorful map is a helpful _____ guide to the streets of the city.", "answer": "pictorial"},
+        {"question": "We made a _____ chart that used little drawings of our favorite fruits.", "answer": "pictorial"}
+      ]
+    },
+    {
+      "word": "representation",
+      "suitable": true,
+      "questions": [
+        {"question": "A classroom globe is a round, 3D _____ of the planet Earth.", "answer": "representation"},
+        {"question": "The detailed drawing is a clear _____ of the science experiment we did.", "answer": "representation"},
+        {"question": "A fraction is a numerical _____ of just a small part of a whole.", "answer": "representation"}
+      ]
+    },
+    {
+      "word": "comparison",
+      "suitable": true,
+      "questions": [
+        {"question": "We made a _____ between the sizes of the huge box and the tiny box.", "answer": "comparison"},
+        {"question": "Using a balancing scale helps make the _____ of two different weights easy.", "answer": "comparison"},
+        {"question": "When you look closely at similarities and differences, you are making a _____.", "answer": "comparison"}
+      ]
+    },
+    {
+      "word": "spade",
+      "suitable": true,
+      "questions": [
+        {"question": "We used a small _____ to dig a deep hole for the new tomato plant.", "answer": "spade"},
+        {"question": "He built a giant sandcastle using his plastic bucket and _____.", "answer": "spade"},
+        {"question": "The busy gardener grabbed a metal _____ to turn the soil in the garden.", "answer": "spade"}
+      ]
+    },
+    {
+      "word": "twig",
+      "suitable": true,
+      "questions": [
+        {"question": "The little bird carried a dry _____ in its beak to build a sturdy nest.", "answer": "twig"},
+        {"question": "A small _____ snapped loudly under my shoe as I walked through the forest.", "answer": "twig"},
+        {"question": "He used a tiny wooden _____ to draw messy lines in the wet dirt.", "answer": "twig"}
+      ]
+    },
+    {
+      "word": "swaying",
+      "suitable": true,
+      "questions": [
+        {"question": "The tall pine trees were _____ back and forth in the strong wind.", "answer": "swaying"},
+        {"question": "We watched the empty boat _____ gently up and down on the ocean waves.", "answer": "swaying"},
+        {"question": "The silly monkeys were _____ from branch to branch in the jungle.", "answer": "swaying"}
+      ]
+    },
+    {
+      "word": "glared",
+      "suitable": true,
+      "questions": [
+        {"question": "The angry guard dog _____ at the stranger who crossed into the yard.", "answer": "glared"},
+        {"question": "She _____ fiercely at her younger brother when he broke her favorite toy.", "answer": "glared"},
+        {"question": "The movie villain _____ meanly at the hero across the room.", "answer": "glared"}
+      ]
+    },
+    {
+      "word": "glanced",
+      "suitable": true,
+      "questions": [
+        {"question": "He quickly _____ at the classroom clock to see if it was time for recess.", "answer": "glanced"},
+        {"question": "She rapidly _____ at her study notes right before the math test began.", "answer": "glanced"},
+        {"question": "I _____ out the window for just a second and saw it was snowing.", "answer": "glanced"}
+      ]
+    },
+    {
+      "word": "leaped",
+      "suitable": true,
+      "questions": [
+        {"question": "The green frog _____ high into the air to catch a buzzing fly.", "answer": "leaped"},
+        {"question": "The graceful deer _____ effortlessly over the tall wooden fence.", "answer": "leaped"},
+        {"question": "She _____ into the air with joy when she finally won the foot race.", "answer": "leaped"}
+      ]
+    },
+    {
+      "word": "blackberry",
+      "suitable": true,
+      "questions": [
+        {"question": "I carefully picked a sweet, dark _____ right off the thorny bush.", "answer": "blackberry"},
+        {"question": "My absolute favorite jam for toast is made from the _____ fruit.", "answer": "blackberry"},
+        {"question": "The dark purple juice of the crushed _____ badly stained his fingers.", "answer": "blackberry"}
+      ]
+    },
+    {
+      "word": "delight",
+      "suitable": true,
+      "questions": [
+        {"question": "The happy baby laughed with _____ when she saw the floating soap bubbles.", "answer": "delight"},
+        {"question": "It was an absolute _____ to eat the delicious chocolate ice cream on a hot day.", "answer": "delight"},
+        {"question": "The silly clown brought joy and _____ to all the children at the party.", "answer": "delight"}
+      ]
+    },
+    {
+      "word": "mountainside",
+      "suitable": true,
+      "questions": [
+        {"question": "They walked carefully along the steep _____ to reach the rushing waterfall.", "answer": "mountainside"},
+        {"question": "The cozy cottage was built right on the sunny _____ of the tall hill.", "answer": "mountainside"},
+        {"question": "Heavy snow slid quickly down the rocky _____ after the huge winter storm.", "answer": "mountainside"}
+      ]
+    },
+    {
+      "word": "Swiss Alps",
+      "suitable": true,
+      "questions": [
+        {"question": "They went on a vacation to ski on the snowy mountains of the _____.", "answer": "Swiss Alps"},
+        {"question": "Some of the most famous milk chocolate in the world is made near the _____.", "answer": "Swiss Alps"},
+        {"question": "We looked at beautiful photographs of the tall, icy peaks in the _____.", "answer": "Swiss Alps"}
+      ]
+    },
+    {
+      "word": "afforestation",
+      "suitable": true,
+      "questions": [
+        {"question": "Planting many new saplings in an empty area of land is called _____.", "answer": "afforestation"},
+        {"question": "The local government planned a huge _____ project to grow a brand new forest.", "answer": "afforestation"},
+        {"question": "Through the process of _____, we can slowly increase the number of trees on Earth.", "answer": "afforestation"}
+      ]
+    },
+    {
+      "word": "respiratory",
+      "suitable": true,
+      "questions": [
+        {"question": "The human lungs and windpipe are important parts of the _____ system.", "answer": "respiratory"},
+        {"question": "Breathing clean, fresh air outside is very good for your _____ health.", "answer": "respiratory"},
+        {"question": "Catching a bad winter cold can sometimes cause a painful _____ illness.", "answer": "respiratory"}
+      ]
+    },
+    {
+      "word": "diaphragm",
+      "suitable": true,
+      "questions": [
+        {"question": "The _____ is a large muscle resting under your lungs that helps you breathe.", "answer": "diaphragm"},
+        {"question": "When you take a deep breath in, your _____ moves down to make room.", "answer": "diaphragm"},
+        {"question": "Funny hiccups happen when your _____ muscle twitches too quickly.", "answer": "diaphragm"}
+      ]
+    },
+    {
+      "word": "tissue",
+      "suitable": true,
+      "questions": [
+        {"question": "In the body, a group of similar cells working together makes up a _____.", "answer": "tissue"},
+        {"question": "Strong muscle _____ allows our bones and bodies to move around.", "answer": "tissue"},
+        {"question": "The doctor checked the skin _____ on her arm to see how the cut was healing.", "answer": "tissue"}
+      ]
+    },
+    {
+      "word": "muscular",
+      "suitable": true,
+      "questions": [
+        {"question": "The beating heart is a very strong _____ organ that pumps blood.", "answer": "muscular"},
+        {"question": "Regularly lifting heavy weights makes a person's body much more _____.", "answer": "muscular"},
+        {"question": "The _____ system works tightly with your bones to help you run and jump.", "answer": "muscular"}
+      ]
+    },
+    {
+      "word": "skull",
+      "suitable": true,
+      "questions": [
+        {"question": "The hard, round bone that safely protects your brain is called the _____.", "answer": "skull"},
+        {"question": "We saw a terrifying T-Rex _____ on display in the dinosaur museum.", "answer": "skull"},
+        {"question": "Your face is made up of several smaller bones securely attached to your _____.", "answer": "skull"}
+      ]
+    },
+    {
+      "word": "inhalation",
+      "suitable": true,
+      "questions": [
+        {"question": "The act of taking a breath of air into your lungs is formally called _____.", "answer": "inhalation"},
+        {"question": "During _____, your chest expands outward to make enough room for the air.", "answer": "inhalation"},
+        {"question": "A deep _____ of fresh mountain air always makes you feel very energetic.", "answer": "inhalation"}
+      ]
+    },
+    {
+      "word": "deforestation",
+      "suitable": true,
+      "questions": [
+        {"question": "Cutting down too many trees in a wooded area leads to harmful _____.", "answer": "deforestation"},
+        {"question": "Many wild animals completely lose their homes because of rapid _____.", "answer": "deforestation"},
+        {"question": "We must try to stop _____ to protect the precious jungles of the world.", "answer": "deforestation"}
+      ]
+    },
+    {
+      "word": "streamlined",
+      "suitable": true,
+      "questions": [
+        {"question": "A fish naturally has a _____ body so it can swim quickly through the water.", "answer": "streamlined"},
+        {"question": "Airplanes have a smooth, _____ shape to fly perfectly through the air.", "answer": "streamlined"},
+        {"question": "The fast race car is _____ so the wind doesn't slow it down on the track.", "answer": "streamlined"}
+      ]
+    },
+    {
+      "word": "flightless",
+      "suitable": true,
+      "questions": [
+        {"question": "The funny penguin is a _____ bird that swims beautifully but cannot soar in the sky.", "answer": "flightless"},
+        {"question": "An ostrich is a very large _____ bird that runs incredibly fast on its strong legs.", "answer": "flightless"},
+        {"question": "The fuzzy kiwi is a unique _____ bird that lives on the ground in New Zealand.", "answer": "flightless"}
+      ]
+    },
+    {
+      "word": "invention",
+      "suitable": true,
+      "questions": [
+        {"question": "The telephone was a very important _____ created by Alexander Graham Bell.", "answer": "invention"},
+        {"question": "The brilliant _____ of the wheel changed how people traveled forever.", "answer": "invention"},
+        {"question": "A clever new _____ can often make our difficult daily work much easier.", "answer": "invention"}
+      ]
+    },
+    {
+      "word": "ancient",
+      "suitable": true,
+      "questions": [
+        {"question": "We saw old wrapped mummies from _____ Egypt at the history museum.", "answer": "ancient"},
+        {"question": "The dusty ruins belong to an _____ city that is over three thousand years old.", "answer": "ancient"},
+        {"question": "Dinosaurs lived in completely _____ times, long before humans existed.", "answer": "ancient"}
+      ]
+    },
+    {
+      "word": "rafts",
+      "suitable": true,
+      "questions": [
+        {"question": "Early humans tied logs tightly together to make flat _____ for crossing deep rivers.", "answer": "rafts"},
+        {"question": "We floated lazily down the calm stream on small wooden _____.", "answer": "rafts"},
+        {"question": "In the distant past, people used simple floating _____ to travel on water before boats.", "answer": "rafts"}
+      ]
+    },
+    {
+      "word": "submarine",
+      "suitable": true,
+      "questions": [
+        {"question": "The brave navy sailors used a _____ to travel safely deep underwater.", "answer": "submarine"},
+        {"question": "A modern _____ has a tall periscope to help the captain see above the ocean surface.", "answer": "submarine"},
+        {"question": "The ocean explorers went inside a tiny _____ to study sea creatures in the dark.", "answer": "submarine"}
+      ]
+    },
+    {
+      "word": "passengers",
+      "suitable": true,
+      "questions": [
+        {"question": "The busy morning city bus was full of sleepy _____ going to work.", "answer": "passengers"},
+        {"question": "The kind flight attendant helped the confused _____ find their seats on the plane.", "answer": "passengers"},
+        {"question": "The long train stopped at the station to let the arriving _____ get off.", "answer": "passengers"}
+      ]
+    },
+    {
+      "word": "development",
+      "suitable": true,
+      "questions": [
+        {"question": "Eating good food and exercising help in the healthy _____ of a growing child.", "answer": "development"},
+        {"question": "The rapid _____ of new paved roads made travel across the country much faster.", "answer": "development"},
+        {"question": "In science, we are closely studying the _____ of a small seed into a large plant.", "answer": "development"}
+      ]
+    },
+    {
+      "word": "ports",
+      "suitable": true,
+      "questions": [
+        {"question": "Massive cargo ships load and unload their heavy boxes at busy sea _____.", "answer": "ports"},
+        {"question": "Many coastal cities grew very large because they had deep, safe water _____.", "answer": "ports"},
+        {"question": "The tired sailors finally rested when their ship reached the docks at the _____.", "answer": "ports"}
+      ]
+    },
+    {
+      "word": "responsibility",
+      "suitable": true,
+      "questions": [
+        {"question": "Feeding the hungry pet dog every morning is my personal _____.", "answer": "responsibility"},
+        {"question": "It is our shared _____ as students to keep the busy classroom clean.", "answer": "responsibility"},
+        {"question": "The captain has the heavy _____ of steering the large ship safely through the storm.", "answer": "responsibility"}
+      ]
+    },
+    {
+      "word": "encourage",
+      "suitable": true,
+      "questions": [
+        {"question": "Good teachers always try to _____ their students to do their absolute best.", "answer": "encourage"},
+        {"question": "We clapped loudly from the bleachers to _____ our school's relay team.", "answer": "encourage"},
+        {"question": "A kind word can easily _____ someone who is feeling very sad or defeated.", "answer": "encourage"}
+      ]
+    },
+    {
+      "word": "specific",
+      "suitable": true,
+      "questions": [
+        {"question": "Please click on that _____ yellow folder to find your saved drawing.", "answer": "specific"},
+        {"question": "The difficult cake recipe calls for a _____ type of very fine flour.", "answer": "specific"},
+        {"question": "He was looking for a _____ book about space, not just any random book.", "answer": "specific"}
+      ]
+    },
+    {
+      "word": "three-dimensional",
+      "suitable": true,
+      "questions": [
+        {"question": "A solid cube is a _____ shape, unlike a flat, drawn square.", "answer": "three-dimensional"},
+        {"question": "We had to wear special red and blue glasses to watch the _____ movie.", "answer": "three-dimensional"},
+        {"question": "A real cardboard box is _____, meaning it has length, width, and height.", "answer": "three-dimensional"}
+      ]
+    },
+    {
+      "word": "untitled",
+      "suitable": true,
+      "questions": [
+        {"question": "When you open a brand new document, it is named _____ until you save it.", "answer": "untitled"},
+        {"question": "Because he forgot to name it, the artist's beautiful new painting remained _____.", "answer": "untitled"},
+        {"question": "I accidentally saved my typed story as an _____ file and now I can't find it.", "answer": "untitled"}
+      ]
+    },
+    {
+      "word": "release",
+      "suitable": true,
+      "questions": [
+        {"question": "You must click and then _____ the mouse button to select an item on the screen.", "answer": "release"},
+        {"question": "The big software company will finally _____ a brand new video game tomorrow.", "answer": "release"},
+        {"question": "When you let go of the keyboard key, you physically _____ it.", "answer": "release"}
+      ]
+    },
+    {
+      "word": "various",
+      "suitable": true,
+      "questions": [
+        {"question": "The candy store sells _____ types of colorful treats to choose from.", "answer": "various"},
+        {"question": "We can use _____ shapes and tools in the paint app to draw a house.", "answer": "various"},
+        {"question": "The school library has books on _____ topics like history, science, and math.", "answer": "various"}
+      ]
+    },
+    {
+      "word": "currency",
+      "suitable": true,
+      "questions": [
+        {"question": "The Rupee is the official money and _____ used in the country of India.", "answer": "currency"},
+        {"question": "When you travel to another country, you usually need a different type of _____.", "answer": "currency"},
+        {"question": "Both metal coins and paper bills are common forms of _____.", "answer": "currency"}
+      ]
+    },
+    {
+      "word": "estimating",
+      "suitable": true,
+      "questions": [
+        {"question": "Instead of exact counting, we are just _____ how many jellybeans are in the jar.", "answer": "estimating"},
+        {"question": "By _____ the answer first, you can check if your math is close to being correct.", "answer": "estimating"},
+        {"question": "The busy builder is _____ the total cost of putting a new roof on the house.", "answer": "estimating"}
+      ]
+    },
+    {
+      "word": "addition",
+      "suitable": true,
+      "questions": [
+        {"question": "We learned how to use simple _____ to find the total sum of the two numbers.", "answer": "addition"},
+        {"question": "The little plus sign is the math symbol always used for _____.", "answer": "addition"},
+        {"question": "Doing quick _____ in your head helps you count your pocket money.", "answer": "addition"}
+      ]
+    },
+    {
+      "word": "regrouping",
+      "suitable": true,
+      "questions": [
+        {"question": "When adding 15 and 18, you need to use _____ to carry the one to the tens place.", "answer": "regrouping"},
+        {"question": "We use _____ in subtraction when the top digit is too small to subtract from.", "answer": "regrouping"},
+        {"question": "Learning the trick of _____ makes adding really big numbers much easier.", "answer": "regrouping"}
+      ]
+    },
+    {
+      "word": "altogether",
+      "suitable": true,
+      "questions": [
+        {"question": "If you have two apples and I have three, we have five apples _____.", "answer": "altogether"},
+        {"question": "Please count how many building blocks there are _____ in the messy pile.", "answer": "altogether"},
+        {"question": "The two movie tickets cost fifty rupees _____.", "answer": "altogether"}
+      ]
+    },
+    {
+      "word": "pastured",
+      "suitable": true,
+      "questions": [
+        {"question": "The farmer _____ his hungry cows in the wide, green meadow.", "answer": "pastured"},
+        {"question": "The horses were peacefully _____ near the cool river all afternoon.", "answer": "pastured"},
+        {"question": "They _____ the sheep on the hillside so they could eat the fresh grass.", "answer": "pastured"}
+      ]
+    },
+    {
+      "word": "spread",
+      "suitable": true,
+      "questions": [
+        {"question": "I used a knife to evenly _____ the peanut butter on my toast.", "answer": "spread"},
+        {"question": "We had to _____ the large picnic blanket out on the grass.", "answer": "spread"},
+        {"question": "The spilled water quickly _____ across the kitchen floor.", "answer": "spread"}
+      ]
+    },
+    {
+      "word": "cistus",
+      "suitable": true,
+      "questions": [
+        {"question": "The pink _____ flowers bloomed beautifully in the dry, rocky soil.", "answer": "cistus"},
+        {"question": "We planted a small _____ bush in the garden because it loves the sun.", "answer": "cistus"},
+        {"question": "A _____ is an evergreen shrub known for its pretty, papery petals.", "answer": "cistus"}
+      ]
+    },
+    {
+      "word": "excitedly",
+      "suitable": true,
+      "questions": [
+        {"question": "The children talked _____ about their upcoming trip to the zoo.", "answer": "excitedly"},
+        {"question": "She waved her hands _____ when she saw her best friend arrive.", "answer": "excitedly"},
+        {"question": "He _____ opened the wrapped present, eager to see what was inside.", "answer": "excitedly"}
+      ]
+    },
+    {
+      "word": "imagine",
+      "suitable": true,
+      "questions": [
+        {"question": "Try to _____ what it would feel like to fly like a bird.", "answer": "imagine"},
+        {"question": "Can you _____ living in a giant house made entirely of chocolate?", "answer": "imagine"},
+        {"question": "She closed her eyes to carefully _____ the magical setting of the story.", "answer": "imagine"}
+      ]
+    },
+    {
+      "word": "supports",
+      "suitable": true,
+      "questions": [
+        {"question": "The thick wooden pillar safely _____ the heavy roof of the porch.", "answer": "supports"},
+        {"question": "A good friend always _____ you when you are feeling sad.", "answer": "supports"},
+        {"question": "The bridge has steel beams underneath that acts as _____ to keep it up.", "answer": "supports"}
+      ]
+    },
+    {
+      "word": "hesitantly",
+      "suitable": true,
+      "questions": [
+        {"question": "The shy boy _____ raised his hand to answer the teacher's question.", "answer": "hesitantly"},
+        {"question": "She stepped _____ onto the wobbly rope bridge, unsure if it was safe.", "answer": "hesitantly"},
+        {"question": "He _____ took a bite of the strange green vegetable on his plate.", "answer": "hesitantly"}
+      ]
+    },
+    {
+      "word": "advice",
+      "suitable": true,
+      "questions": [
+        {"question": "My grandmother gives very wise _____ when I don't know what to do.", "answer": "advice"},
+        {"question": "The dentist gave me good _____ about brushing my teeth twice a day.", "answer": "advice"},
+        {"question": "If you are lost, asking a police officer for _____ is a safe idea.", "answer": "advice"}
+      ]
+    },
+    {
+      "word": "exclaimed",
+      "suitable": true,
+      "questions": [
+        {"question": "Wow, look at that giant rainbow! she _____ pointing at the sky.", "answer": "exclaimed"},
+        {"question": "I won the spelling bee! he _____ with a huge, joyful smile.", "answer": "exclaimed"},
+        {"question": "Watch out for the puddle! my mother _____ as I ran outside.", "answer": "exclaimed"}
+      ]
+    },
+    {
+      "word": "heartily",
+      "suitable": true,
+      "questions": [
+        {"question": "They laughed _____ at the clown's very funny jokes.", "answer": "heartily"},
+        {"question": "After the long hike, we _____ ate the delicious sandwiches.", "answer": "heartily"},
+        {"question": "The friendly giant greeted the travelers _____ with a booming voice.", "answer": "heartily"}
+      ]
+    },
+    {
+      "word": "perching",
+      "suitable": true,
+      "questions": [
+        {"question": "The small blue bird was happily _____ on the thin wooden branch.", "answer": "perching"},
+        {"question": "We saw an owl silently _____ on the roof of the old barn.", "answer": "perching"},
+        {"question": "The parrot likes _____ on the pirate's shoulder during the movie.", "answer": "perching"}
+      ]
+    },
+    {
+      "word": "ornithologist",
+      "suitable": true,
+      "questions": [
+        {"question": "An _____ is a special scientist who loves to study wild birds.", "answer": "ornithologist"},
+        {"question": "The _____ used binoculars to watch the eagle build its nest.", "answer": "ornithologist"},
+        {"question": "If you want to learn everything about feathers and beaks, you should become an _____.", "answer": "ornithologist"}
+      ]
+    },
+    {
+      "word": "container",
+      "suitable": true,
+      "questions": [
+        {"question": "We put the collected rainwater in a large plastic _____.", "answer": "container"},
+        {"question": "Please put the leftover soup in a sealed _____ before putting it in the fridge.", "answer": "container"},
+        {"question": "The metal _____ was filled with colorful beads for making bracelets.", "answer": "container"}
+      ]
+    },
+    {
+      "word": "imitating",
+      "suitable": true,
+      "questions": [
+        {"question": "The clever parrot is very good at _____ the sounds of human voices.", "answer": "imitating"},
+        {"question": "The little boy was playfully _____ the way his grandfather walked.", "answer": "imitating"},
+        {"question": "Some bugs protect themselves by _____ the look of poisonous insects.", "answer": "imitating"}
+      ]
+    },
+    {
+      "word": "weave",
+      "suitable": true,
+      "questions": [
+        {"question": "Clever weaver birds _____ long grass together to build their hanging homes.", "answer": "weave"},
+        {"question": "Spiders _____ sticky silk webs to catch flying bugs for dinner.", "answer": "weave"},
+        {"question": "My grandmother taught me how to _____ colorful yarn into a warm blanket.", "answer": "weave"}
+      ]
+    },
+    {
+      "word": "mosquitoes",
+      "suitable": true,
+      "questions": [
+        {"question": "We sleep under nets to protect ourselves from biting _____ at night.", "answer": "mosquitoes"},
+        {"question": "The itchy red bumps on my arm are from _____ that bit me near the lake.", "answer": "mosquitoes"},
+        {"question": "Putting on bug spray helps keep the _____ away during a camping trip.", "answer": "mosquitoes"}
+      ]
+    },
+    {
+      "word": "vibrant",
+      "suitable": true,
+      "questions": [
+        {"question": "The male peacock displays _____ blue and green feathers to show off.", "answer": "vibrant"},
+        {"question": "The artist used very _____ paints to make the sunset look bright and alive.", "answer": "vibrant"},
+        {"question": "Spring gardens are filled with _____ flowers of every bright color.", "answer": "vibrant"}
+      ]
+    },
+    {
+      "word": "antennae",
+      "suitable": true,
+      "questions": [
+        {"question": "The blind insect used its long _____ to feel its way around the dark dirt.", "answer": "antennae"},
+        {"question": "Moths have feathery _____ on their heads that help them detect smells.", "answer": "antennae"},
+        {"question": "You can clearly see the _____ twitch when the ladybug moves.", "answer": "antennae"}
+      ]
+    },
+    {
+      "word": "chitin",
+      "suitable": true,
+      "questions": [
+        {"question": "The crunchy, hard outer shell of an insect is made of a material called _____.", "answer": "chitin"},
+        {"question": "Crabs and beetles both have exoskeletons formed from tough _____.", "answer": "chitin"},
+        {"question": "Because it is made of _____, the beetle's armor protects it from getting squished.", "answer": "chitin"}
+      ]
+    },
+    {
+      "word": "louse",
+      "suitable": true,
+      "questions": [
+        {"question": "A single head _____ is a tiny bug that can make your scalp very itchy.", "answer": "louse"},
+        {"question": "The doctor checked his hair to make sure he didn't have a crawling _____.", "answer": "louse"},
+        {"question": "If a _____ lays eggs in your hair, you have to use special shampoo to wash them out.", "answer": "louse"}
+      ]
+    },
+    {
+      "word": "respect",
+      "suitable": true,
+      "questions": [
+        {"question": "We should always show _____ to our elders by listening carefully to them.", "answer": "respect"},
+        {"question": "Treating your classmates kindly is a great way to show them _____.", "answer": "respect"},
+        {"question": "We stand up for the national anthem out of deep _____ for our country.", "answer": "respect"}
+      ]
+    },
+    {
+      "word": "participate",
+      "suitable": true,
+      "questions": [
+        {"question": "Our entire class will _____ in the fun activities on school sports day.", "answer": "participate"},
+        {"question": "The teacher asked everyone to raise their hands and _____ in the discussion.", "answer": "participate"},
+        {"question": "If you _____ in the reading challenge, you might win a free book.", "answer": "participate"}
+      ]
+    },
+    {
+      "word": "occupations",
+      "suitable": true,
+      "questions": [
+        {"question": "Farming, teaching, and nursing are all very important _____ in our town.", "answer": "occupations"},
+        {"question": "When we grow up, we can choose from many different _____ for our jobs.", "answer": "occupations"},
+        {"question": "People have different _____ to earn money and help the community.", "answer": "occupations"}
+      ]
+    },
+    {
+      "word": "professional",
+      "suitable": true,
+      "questions": [
+        {"question": "She practiced every day for years to become a _____ tennis player.", "answer": "professional"},
+        {"question": "A _____ doctor is trained to safely help people who are very sick.", "answer": "professional"},
+        {"question": "He hired a _____ painter to make sure the house looked perfect.", "answer": "professional"}
+      ]
+    },
+    {
+      "word": "historians",
+      "suitable": true,
+      "questions": [
+        {"question": "Experts who read old books to study the past are called _____.", "answer": "historians"},
+        {"question": "Many _____ believe that ancient people built the pyramids using ramps.", "answer": "historians"},
+        {"question": "The museum hired _____ to explain how kings lived hundreds of years ago.", "answer": "historians"}
+      ]
+    },
+    {
+      "word": "calendar",
+      "suitable": true,
+      "questions": [
+        {"question": "Look at the wall _____ to see exactly what day your birthday is on.", "answer": "calendar"},
+        {"question": "The school _____ shows all the holidays we get to stay home.", "answer": "calendar"},
+        {"question": "We marked the date of our vacation with a red pen on the _____.", "answer": "calendar"}
+      ]
+    },
+    {
+      "word": "anniversaries",
+      "suitable": true,
+      "questions": [
+        {"question": "People love to celebrate their wedding _____ with cake every single year.", "answer": "anniversaries"},
+        {"question": "The town holds a big parade for important _____ of its founding.", "answer": "anniversaries"},
+        {"question": "Birthdays are actually just yearly _____ of the day you were born.", "answer": "anniversaries"}
+      ]
+    },
+    {
+      "word": "decade",
+      "suitable": true,
+      "questions": [
+        {"question": "A period of exactly ten years is called a _____.", "answer": "decade"},
+        {"question": "My older sister is ten, which means she has been alive for one full _____.", "answer": "decade"},
+        {"question": "The fashion and music of the past _____ were very different from today.", "answer": "decade"}
+      ]
+    },
+    {
+      "word": "century",
+      "suitable": true,
+      "questions": [
+        {"question": "One hundred years make up a full _____ in history.", "answer": "century"},
+        {"question": "The old castle was built more than a _____ ago by an ancient king.", "answer": "century"},
+        {"question": "Living to be 100 years old means you have lived for an entire _____.", "answer": "century"}
+      ]
+    },
+    {
+      "word": "subtrahend",
+      "suitable": true,
+      "questions": [
+        {"question": "In a math problem, the number that is to be subtracted is called the _____.", "answer": "subtrahend"},
+        {"question": "If you calculate 10 - 3, the number 3 is the _____.", "answer": "subtrahend"},
+        {"question": "You always take the _____ away from the minuend to find the answer.", "answer": "subtrahend"}
+      ]
+    },
+    {
+      "word": "minuend",
+      "suitable": true,
+      "questions": [
+        {"question": "The starting, larger number you subtract from is known as the _____.", "answer": "minuend"},
+        {"question": "In the equation 15 - 5 = 10, the number 15 is the _____.", "answer": "minuend"},
+        {"question": "We write the _____ on the top when we do subtraction in a column.", "answer": "minuend"}
+      ]
+    },
+    {
+      "word": "difference",
+      "suitable": true,
+      "questions": [
+        {"question": "The final answer to a subtraction problem is always called the _____.", "answer": "difference"},
+        {"question": "The _____ between 10 and 6 is exactly 4.", "answer": "difference"},
+        {"question": "If you subtract my age from your age, you will find the _____.", "answer": "difference"}
+      ]
+    },
+    {
+      "word": "borrow",
+      "suitable": true,
+      "questions": [
+        {"question": "If the top digit is too small to subtract, you must _____ from the tens column.", "answer": "borrow"},
+        {"question": "When subtracting 19 from 32, we have to _____ a ten to make the 2 into a 12.", "answer": "borrow"},
+        {"question": "I forgot my pencil, so I had to _____ one from my nice classmate.", "answer": "borrow"}
+      ]
+    },
+    {
+      "word": "estimate",
+      "suitable": true,
+      "questions": [
+        {"question": "We can easily _____ the math answer by rounding the numbers first.", "answer": "estimate"},
+        {"question": "To make a quick guess without counting them all is to _____.", "answer": "estimate"},
+        {"question": "The teacher asked us to _____ how many jellybeans were in the glass jar.", "answer": "estimate"}
+      ]
+    },
+    {
+      "word": "sphere",
+      "suitable": true,
+      "questions": [
+        {"question": "A perfectly round shape, like a bouncy ball, is a 3D object called a _____.", "answer": "sphere"},
+        {"question": "The planet Earth is shaped like a giant _____ floating in space.", "answer": "sphere"},
+        {"question": "An orange is a delicious fruit that has the round shape of a _____.", "answer": "sphere"}
+      ]
+    },
+    {
+      "word": "library",
+      "suitable": true,
+      "questions": [
+        {"question": "You can find many wonderful story books to read quietly in the school _____.", "answer": "library"},
+        {"question": "We used our card to borrow a science video from the public _____.", "answer": "library"},
+        {"question": "Please remember to whisper so you don't disturb others in the _____.", "answer": "library"}
+      ]
+    },
+    {
+      "word": "canvas",
+      "suitable": true,
+      "questions": [
+        {"question": "In the computer paint app, the blank white area where you draw is called the _____.", "answer": "canvas"},
+        {"question": "The painter set up a blank _____ on his easel to begin his masterpiece.", "answer": "canvas"},
+        {"question": "If you make a mistake, you can erase the digital _____ and start over.", "answer": "canvas"}
+      ]
+    },
+    {
+      "word": "Microsoft",
+      "suitable": true,
+      "questions": [
+        {"question": "Word, Paint, and Excel are famous computer programs made by _____.", "answer": "Microsoft"},
+        {"question": "The Windows operating system on our school computers was created by _____.", "answer": "Microsoft"},
+        {"question": "Bill Gates is the famous man who helped start the _____ company.", "answer": "Microsoft"}
+      ]
+    },
+    {
+      "word": "doodle",
+      "suitable": true,
+      "questions": [
+        {"question": "During his free time, he likes to _____ funny little faces in the margins of his notebook.", "answer": "doodle"},
+        {"question": "Instead of paying attention, she began to _____ stars and flowers with her pen.", "answer": "doodle"},
+        {"question": "A quick, messy drawing made while you are bored is called a _____.", "answer": "doodle"}
+      ]
+    },
+    {
+      "word": "water-babies",
+      "suitable": true,
+      "questions": [
+        {"question": "The magical fairy tale is about tiny _____ living happily in the clear river.", "answer": "water-babies"},
+        {"question": "In the story, Tom transforms and goes to live underwater with the _____.", "answer": "water-babies"},
+        {"question": "The playful _____ swam around the rocks and fish without needing to breathe air.", "answer": "water-babies"}
+      ]
+    },
+    {
+      "word": "chimney sweep",
+      "suitable": true,
+      "questions": [
+        {"question": "A _____ is a worker covered in soot who cleans the inside of dirty fireplaces.", "answer": "chimney sweep"},
+        {"question": "The little boy worked hard as a _____ to clear the smoke paths in tall houses.", "answer": "chimney sweep"},
+        {"question": "We had to hire a _____ before winter to make sure our fire would burn safely.", "answer": "chimney sweep"}
+      ]
+    },
+    {
+      "word": "sea-creatures",
+      "suitable": true,
+      "questions": [
+        {"question": "Sharks, crabs, and giant whales are all fascinating _____.", "answer": "sea-creatures"},
+        {"question": "The deep ocean is home to glowing _____ that have never seen the sun.", "answer": "sea-creatures"},
+        {"question": "We visited the aquarium to watch the colorful _____ swim in the big tank.", "answer": "sea-creatures"}
+      ]
+    },
+    {
+      "word": "boulder",
+      "suitable": true,
+      "questions": [
+        {"question": "The tired hikers climbed over a giant, gray _____ blocking the dirt trail.", "answer": "boulder"},
+        {"question": "A massive _____ rolled down the hill and crashed into the empty road.", "answer": "boulder"},
+        {"question": "The crab hid safely underneath a smooth, heavy _____ at the beach.", "answer": "boulder"}
+      ]
+    },
+    {
+      "word": "seaweeds",
+      "suitable": true,
+      "questions": [
+        {"question": "Slippery, green _____ washed up on the sandy beach after the tide went out.", "answer": "seaweeds"},
+        {"question": "Many small fish hide in forests of tall _____ to escape bigger predators.", "answer": "seaweeds"},
+        {"question": "Some types of salty _____ are actually dried and eaten as a healthy snack.", "answer": "seaweeds"}
+      ]
+    },
+    {
+      "word": "mended",
+      "suitable": true,
+      "questions": [
+        {"question": "My mother neatly _____ the hole in my favorite socks with a needle and thread.", "answer": "mended"},
+        {"question": "The broken wooden fence was finally _____ by the carpenter.", "answer": "mended"},
+        {"question": "After he _____ the flat tire on his bicycle, he could ride it again.", "answer": "mended"}
+      ]
+    },
+    {
+      "word": "rock pools",
+      "suitable": true,
+      "questions": [
+        {"question": "We looked for tiny crabs trapped in the shallow _____ left behind by the ocean tide.", "answer": "rock pools"},
+        {"question": "Small fish and starfish often live safely in _____ near the cliff edge.", "answer": "rock pools"},
+        {"question": "The children splashed in the warm _____ formed in the stones by the beach.", "answer": "rock pools"}
+      ]
+    },
+    {
+      "word": "sewers",
+      "suitable": true,
+      "questions": [
+        {"question": "Dirty waste water from our sinks travels quickly through underground _____.", "answer": "sewers"},
+        {"question": "During a heavy rainstorm, water flows off the streets and down into the _____.", "answer": "sewers"},
+        {"question": "City workers have to clean the deep _____ to keep the pipes from blocking.", "answer": "sewers"}
+      ]
+    },
+    {
+      "word": "sea anemones",
+      "suitable": true,
+      "questions": [
+        {"question": "The colorful _____ look like pretty underwater flowers but are actually animals.", "answer": "sea anemones"},
+        {"question": "Clownfish famously make their safe homes inside the stinging tentacles of _____.", "answer": "sea anemones"},
+        {"question": "We saw bright pink _____ attached tightly to the glass of the aquarium.", "answer": "sea anemones"}
+      ]
+    },
+    {
+      "word": "ripple",
+      "suitable": true,
+      "questions": [
+        {"question": "Throwing a small pebble into the calm pond will cause a gentle _____ in the water.", "answer": "ripple"},
+        {"question": "A slight breeze made a tiny _____ across the surface of the smooth lake.", "answer": "ripple"},
+        {"question": "The swimming duck left a long, spreading _____ trailing behind it.", "answer": "ripple"}
+      ]
+    },
+    {
+      "word": "saliva",
+      "suitable": true,
+      "questions": [
+        {"question": "The watery liquid in your mouth that helps soften your food is called _____.", "answer": "saliva"},
+        {"question": "When the dog saw the tasty bone, _____ began to drip from his mouth.", "answer": "saliva"},
+        {"question": "Digestion actually begins when _____ mixes with your food as you chew.", "answer": "saliva"}
+      ]
+    },
+    {
+      "word": "thorax",
+      "suitable": true,
+      "questions": [
+        {"question": "The middle part of an insect's body, where the legs are attached, is the _____.", "answer": "thorax"},
+        {"question": "A butterfly's wings grow directly out of its _____.", "answer": "thorax"},
+        {"question": "The three main parts of a bug are the head, the _____, and the abdomen.", "answer": "thorax"}
+      ]
+    },
+    {
+      "word": "abdomen",
+      "suitable": true,
+      "questions": [
+        {"question": "The last, squishy part of an ant's body is called its _____.", "answer": "abdomen"},
+        {"question": "A bee's stinger is located at the very end of its striped _____.", "answer": "abdomen"},
+        {"question": "When you have a stomach ache, the pain is in your _____ area.", "answer": "abdomen"}
+      ]
+    },
+    {
+      "word": "cocoon",
+      "suitable": true,
+      "questions": [
+        {"question": "The sleepy caterpillar spun a silky _____ around itself to rest.", "answer": "cocoon"},
+        {"question": "After many days, a beautiful moth emerged from the hard _____.", "answer": "cocoon"},
+        {"question": "The insect changes its body shape while hidden safely inside the _____.", "answer": "cocoon"}
+      ]
+    },
+    {
+      "word": "larva",
+      "suitable": true,
+      "questions": [
+        {"question": "A crawling caterpillar is actually the _____ stage of a butterfly's life.", "answer": "larva"},
+        {"question": "The tiny, worm-like _____ hatched directly out of the small insect egg.", "answer": "larva"},
+        {"question": "Before it grows legs, a baby ladybug looks like a strange, spiky _____.", "answer": "larva"}
+      ]
+    },
+    {
+      "word": "mounds",
+      "suitable": true,
+      "questions": [
+        {"question": "Tiny termites build incredibly tall dirt _____ to live inside safely.", "answer": "mounds"},
+        {"question": "The busy ants piled up sand to make little _____ around their nest entrance.", "answer": "mounds"},
+        {"question": "We saw large _____ of pushed-up earth where the moles had been digging.", "answer": "mounds"}
+      ]
+    },
+    {
+      "word": "drones",
+      "suitable": true,
+      "questions": [
+        {"question": "The male bees that do not sting and only help the queen are called _____.", "answer": "drones"},
+        {"question": "In a beehive, the _____ do not collect pollen like the worker bees do.", "answer": "drones"},
+        {"question": "The primary job of the buzzing _____ is to mate with the queen bee.", "answer": "drones"}
+      ]
+    },
+    {
+      "word": "colonies",
+      "suitable": true,
+      "questions": [
+        {"question": "Ants do not live alone; they live together in massive groups called _____.", "answer": "colonies"},
+        {"question": "Emperor penguins form huge _____ on the ice to keep each other warm.", "answer": "colonies"},
+        {"question": "Some bat _____ contain millions of bats sleeping in a single dark cave.", "answer": "colonies"}
+      ]
+    },
+    {
+      "word": "transmitting",
+      "suitable": true,
+      "questions": [
+        {"question": "Mosquitoes are famous for _____ dangerous diseases like malaria to humans.", "answer": "transmitting"},
+        {"question": "The tall radio tower is responsible for _____ music signals to our cars.", "answer": "transmitting"},
+        {"question": "Washing hands helps stop sick kids from _____ their germs to the rest of the class.", "answer": "transmitting"}
+      ]
+    },
+    {
+      "word": "caterpillar",
+      "suitable": true,
+      "questions": [
+        {"question": "The very hungry, green _____ chewed a large hole right through the leaf.", "answer": "caterpillar"},
+        {"question": "A fuzzy _____ slowly crawled up the branch to spin its silk cocoon.", "answer": "caterpillar"},
+        {"question": "Before it earns its beautiful wings, a butterfly starts its life as a _____.", "answer": "caterpillar"}
+      ]
+    },
+    {
+      "word": "community",
+      "suitable": true,
+      "questions": [
+        {"question": "Our local _____ worked hard together to clean up the trash in the park.", "answer": "community"},
+        {"question": "The caring _____ organized a big bake sale to raise money for the new hospital.", "answer": "community"},
+        {"question": "People who live in a good _____ always try to help each other during emergencies.", "answer": "community"}
+      ]
+    },
+    {
+      "word": "domesticate",
+      "suitable": true,
+      "questions": [
+        {"question": "Early humans learned to _____ wild wolves into friendly dogs for protection.", "answer": "domesticate"},
+        {"question": "It takes many, many years to completely _____ a wild species of animal.", "answer": "domesticate"},
+        {"question": "Farmers were the first to _____ cows so they could easily get milk.", "answer": "domesticate"}
+      ]
+    },
+    {
+      "word": "vaccination",
+      "suitable": true,
+      "questions": [
+        {"question": "The doctor recommended a simple _____ to protect the child from a serious disease.", "answer": "vaccination"},
+        {"question": "Getting a _____ at the clinic helps prevent the rapid spread of many illnesses.", "answer": "vaccination"},
+        {"question": "They received their travel _____ before flying to the jungle country.", "answer": "vaccination"}
+      ]
+    },
+    {
+      "word": "disasters",
+      "suitable": true,
+      "questions": [
+        {"question": "Terrible floods, hurricanes, and earthquakes are all considered natural _____.", "answer": "disasters"},
+        {"question": "The town had to rebuild many broken houses after the string of weather _____.", "answer": "disasters"},
+        {"question": "We practiced safety drills at school so we are prepared for sudden _____.", "answer": "disasters"}
+      ]
+    },
+    {
+      "word": "extinguisher",
+      "suitable": true,
+      "questions": [
+        {"question": "We must use a red fire _____ to safely put out small flames in the kitchen.", "answer": "extinguisher"},
+        {"question": "The principal checked the pressure gauge on the wall _____ to make sure it worked.", "answer": "extinguisher"},
+        {"question": "If the trash can catches fire, grab the heavy _____ and spray the foam.", "answer": "extinguisher"}
+      ]
+    },
+    {
+      "word": "labour",
+      "suitable": true,
+      "questions": [
+        {"question": "Building the giant stone pyramids required an incredible amount of hard _____.", "answer": "labour"},
+        {"question": "Chopping wood all day is very tiring manual _____.", "answer": "labour"},
+        {"question": "The farmers hire extra _____ to help pick the apples during the harvest season.", "answer": "labour"}
+      ]
+    },
+    {
+      "word": "infection",
+      "suitable": true,
+      "questions": [
+        {"question": "Washing a dirty cut with soap helps prevent a painful _____.", "answer": "infection"},
+        {"question": "The doctor gave me special medicine to quickly cure the ear _____.", "answer": "infection"},
+        {"question": "Redness and swelling are strong signs that an _____ has started in the wound.", "answer": "infection"}
+      ]
+    },
+    {
+      "word": "inclusive",
+      "suitable": true,
+      "questions": [
+        {"question": "An _____ school happily welcomes and teaches children of all abilities and backgrounds.", "answer": "inclusive"},
+        {"question": "The playground is _____, meaning it has swings for kids in wheelchairs too.", "answer": "inclusive"},
+        {"question": "We try to be _____ by inviting every single person in the class to the party.", "answer": "inclusive"}
+      ]
+    },
+    {
+      "word": "Braille",
+      "suitable": true,
+      "questions": [
+        {"question": "Blind people read books by feeling the raised dots of the _____ alphabet.", "answer": "Braille"},
+        {"question": "The elevator buttons have _____ numbers next to them so blind people know which floor to press.", "answer": "Braille"},
+        {"question": "She learned to type using a special _____ keyboard for the visually impaired.", "answer": "Braille"}
+      ]
+    },
+    {
+      "word": "communicate",
+      "suitable": true,
+      "questions": [
+        {"question": "We can clearly _____ with our faraway friends by writing long letters or calling.", "answer": "communicate"},
+        {"question": "Dogs often _____ how they are feeling by wagging their tails or barking.", "answer": "communicate"},
+        {"question": "Using sign language is a wonderful way to _____ with someone who is deaf.", "answer": "communicate"}
+      ]
+    },
+    {
+      "word": "multiplicand",
+      "suitable": true,
+      "questions": [
+        {"question": "In a multiplication problem, the first number that is to be multiplied is the _____.", "answer": "multiplicand"},
+        {"question": "If you multiply 4 by 3, the number 4 is considered the _____.", "answer": "multiplicand"},
+        {"question": "The _____ is the quantity that is taken a certain number of times.", "answer": "multiplicand"}
+      ]
+    },
+    {
+      "word": "multiplier",
+      "suitable": true,
+      "questions": [
+        {"question": "The number by which we multiply another number is called the _____.", "answer": "multiplier"},
+        {"question": "In the equation 5 x 2 = 10, the number 2 acts as the _____.", "answer": "multiplier"},
+        {"question": "The _____ tells you exactly how many times to add the first number to itself.", "answer": "multiplier"}
+      ]
+    },
+    {
+      "word": "product",
+      "suitable": true,
+      "questions": [
+        {"question": "The final answer to a multiplication problem is always called the _____.", "answer": "product"},
+        {"question": "If you multiply 3 and 4 together, the _____ is 12.", "answer": "product"},
+        {"question": "You calculate the _____ by combining the multiplicand and the multiplier.", "answer": "product"}
+      ]
+    },
+    {
+      "word": "multiplication",
+      "suitable": true,
+      "questions": [
+        {"question": "The fast math process of adding a number to itself many times is called _____.", "answer": "multiplication"},
+        {"question": "We use an 'x' symbol when we are writing out a _____ problem.", "answer": "multiplication"},
+        {"question": "Learning your times tables makes doing _____ much easier.", "answer": "multiplication"}
+      ]
+    },
+    {
+      "word": "group",
+      "suitable": true,
+      "questions": [
+        {"question": "We placed the colored math blocks into a neat _____ of five.", "answer": "group"},
+        {"question": "A small _____ of students gathered around the computer to watch the video.", "answer": "group"},
+        {"question": "If you divide twelve by four, you get a _____ of three.", "answer": "group"}
+      ]
+    },
+    {
+      "word": "default",
+      "suitable": true,
+      "questions": [
+        {"question": "If you don't pick a new font, the computer will automatically use its _____ settings.", "answer": "default"},
+        {"question": "The screen's _____ background is blue, but you can change it to a picture of a dog.", "answer": "default"},
+        {"question": "When you reset a video game, it goes back to the _____ difficulty level.", "answer": "default"}
+      ]
+    },
+    {
+      "word": "presentable",
+      "suitable": true,
+      "questions": [
+        {"question": "Brushing your hair and wearing clean clothes makes you look neat and _____.", "answer": "presentable"},
+        {"question": "Before giving his speech, he checked the mirror to ensure he looked _____.", "answer": "presentable"},
+        {"question": "Please format your digital document nicely so your homework is _____ for the teacher.", "answer": "presentable"}
+      ]
+    },
+    {
+      "word": "maximize",
+      "suitable": true,
+      "questions": [
+        {"question": "Click the small square button in the corner to _____ the window to full screen.", "answer": "maximize"},
+        {"question": "To see the tiny picture better, you can _____ the screen to make it huge.", "answer": "maximize"},
+        {"question": "If the video box is too small, just hit _____ to stretch it across your monitor.", "answer": "maximize"}
+      ]
+    },
+    {
+      "word": "automatically",
+      "suitable": true,
+      "questions": [
+        {"question": "The smart computer program saves your hard work _____ every five minutes.", "answer": "automatically"},
+        {"question": "When you walk near the store doors, they open _____ without being pushed.", "answer": "automatically"},
+        {"question": "If you type a word wrong, the autocorrect feature will _____ fix the spelling for you.", "answer": "automatically"}
+      ]
+    },
+    {
+      "word": "cursor",
+      "suitable": true,
+      "questions": [
+        {"question": "The blinking little line on the screen that shows where you will type is called the _____.", "answer": "cursor"},
+        {"question": "Use your mouse to move the _____ over to the 'Save' button and click.", "answer": "cursor"},
+        {"question": "When the screen froze, the computer _____ stopped moving entirely.", "answer": "cursor"}
+      ]
+    }
+  ]
+}
